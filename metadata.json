@@ -1,0 +1,6 @@
+{
+  "name": "Tra cứu TTHC UBND Phường Trà Câu",
+  "description": "Trang tra cứu và xuất PDF Danh mục Thủ tục Hành chính thuộc thẩm quyền giải quyết của UBND Phường Trà Câu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

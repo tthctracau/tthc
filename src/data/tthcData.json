@@ -1,0 +1,3809 @@
+[
+  {
+    "stt": 1,
+    "code": "1.000080.01",
+    "title": "Thủ tục đăng ký nhận cha, mẹ, con có yếu tố nước ngoài tại khu vực biên giới",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-380b-73df-9a18-5658e09794d3"
+  },
+  {
+    "stt": 2,
+    "code": "1.000094.01",
+    "title": "Thủ tục đăng ký kết hôn có yếu tố nước ngoài tại khu vực biên giới",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3801-752b-a01a-93596242f811"
+  },
+  {
+    "stt": 3,
+    "code": "1.000110.01",
+    "title": "Thủ tục đăng ký khai sinh có yếu tố nước ngoài tại khu vực biên giới",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-380a-702c-892d-dedfddd22f02"
+  },
+  {
+    "stt": 4,
+    "code": "1.000280.01",
+    "title": "Công nhận trường tiểu học đạt chuẩn quốc gia",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-9110-75ce-ad33-901be1f7d11a"
+  },
+  {
+    "stt": 5,
+    "code": "1.000288.01",
+    "title": "Công nhận trường mầm non đạt chuẩn Quốc gia",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-910f-71b8-b7b8-45b3e2c1f7ee"
+  },
+  {
+    "stt": 6,
+    "code": "1.000314.01",
+    "title": "Chấp thuận vị trí đấu nối tạm vào đường bộ đang khai thác",
+    "agency": "Bộ Xây dựng",
+    "category": "Đường bộ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-0b6a-755c-859a-4ec09fbd16c7"
+  },
+  {
+    "stt": 7,
+    "code": "1.000419.01",
+    "title": "Thủ tục đăng ký khai tử lưu động",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-380b-73c4-9566-9e8b26bbfec6"
+  },
+  {
+    "stt": 8,
+    "code": "1.000593.01",
+    "title": "Thủ tục đăng ký kết hôn lưu động",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-382c-774c-bca0-e30c261d7be4"
+  },
+  {
+    "stt": 9,
+    "code": "1.000656.02",
+    "title": "Thủ tục đăng ký khai tử",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3fac-7489-b53b-9c6c958f2da4"
+  },
+  {
+    "stt": 10,
+    "code": "1.000689.01",
+    "title": "Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3faf-768a-9224-9cb889436133"
+  },
+  {
+    "stt": 11,
+    "code": "1.000691.01",
+    "title": "Công nhận trường trung học đạt chuẩn Quốc gia",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-9161-73d9-91e3-f3529acbed4e"
+  },
+  {
+    "stt": 12,
+    "code": "1.000711.01",
+    "title": "Cấp Chứng nhận trường trung học đạt kiểm định chất lượng giáo dục",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Kiểm định chất lượng giáo dục",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-9162-72e1-97b0-aeb2c31f03e0"
+  },
+  {
+    "stt": 13,
+    "code": "1.000713.01",
+    "title": "Cấp Chứng nhận trường tiểu học đạt kiểm định chất lượng giáo dục",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Kiểm định chất lượng giáo dục",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-9160-7774-a5e0-424bf72d9e47"
+  },
+  {
+    "stt": 14,
+    "code": "1.000893.01",
+    "title": "Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3faf-768a-9224-a27e812b1907"
+  },
+  {
+    "stt": 15,
+    "code": "1.000894.02",
+    "title": "Thủ tục đăng ký kết hôn",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3fac-7489-b53b-a15eb239a6fe"
+  },
+  {
+    "stt": 16,
+    "code": "1.001022.01",
+    "title": "Thủ tục đăng ký nhận cha, mẹ, con",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3fa6-722f-ac1a-e949c8ce3418"
+  },
+  {
+    "stt": 17,
+    "code": "1.001193.02",
+    "title": "Thủ tục đăng ký khai sinh",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-3fe0-70ac-b9d6-5e9e20d6eef7"
+  },
+  {
+    "stt": 18,
+    "code": "1.001257.01",
+    "title": "Giải quyết trợ cấp một lần đối với người có thành tích tham gia kháng chiến đã được tặng Bằng khen của Thủ tướng Chính phủ, Bằng khen của Chủ tịch Hội đồng Bộ trưởng hoặc Bằng khen của",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-d4cf-73fe-a7ff-10a3f58e3a78"
+  },
+  {
+    "stt": 19,
+    "code": "1.001266.01",
+    "title": "Chấm dứt hoạt động hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-d748-72d1-848f-3607bc86e647"
+  },
+  {
+    "stt": 20,
+    "code": "1.001570.01",
+    "title": "Tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã thông báo của hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-d768-7446-bd77-3bb11051041c"
+  },
+  {
+    "stt": 21,
+    "code": "1.001612.01",
+    "title": "Đăng ký thành lập hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-d76d-737f-81b9-69258b07240b"
+  },
+  {
+    "stt": 22,
+    "code": "1.001622.01",
+    "title": "Hỗ trợ ăn trưa đối với trẻ em mẫu giáo",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-98e7-70fc-a7e2-3c4617d4c507"
+  },
+  {
+    "stt": 23,
+    "code": "1.001639.01",
+    "title": "Giải thể trường tiểu học (theo đề nghị của tổ chức, cá nhân đề nghị thành lập trường tiểu học)",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục tiểu học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-98e3-713b-b56c-5206304e813a"
+  },
+  {
+    "stt": 24,
+    "code": "1.001653.01",
+    "title": "Đổi, cấp lại Giấy xác nhận khuyết tật",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-b7ab-731d-844a-5e232b77afef"
+  },
+  {
+    "stt": 25,
+    "code": "1.001662.01",
+    "title": "Đăng ký khai thác nước dưới đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-0929-7304-8c4e-e9aea3f674ff"
+  },
+  {
+    "stt": 26,
+    "code": "1.001669.01",
+    "title": "Thủ tục đăng ký giám hộ có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-47a7-74cf-a1de-4c9e077743e9"
+  },
+  {
+    "stt": 27,
+    "code": "1.001686.01",
+    "title": "Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thú y",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-0964-77c9-86fa-08cba85fde03"
+  },
+  {
+    "stt": 28,
+    "code": "1.001695.01",
+    "title": "Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-47b0-7285-b035-456104e16436"
+  },
+  {
+    "stt": 29,
+    "code": "1.001699.01",
+    "title": "Xác định, xác định lại mức độ khuyết tật và cấp Giấy xác nhận khuyết tật",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-b7cd-76e9-b909-bcf437629cb8"
+  },
+  {
+    "stt": 30,
+    "code": "1.001714.01",
+    "title": "Cấp học bổng và hỗ trợ kinh phí mua phương tiện, đồ dùng học tập dùng riêng cho người khuyết tật học tại các cơ sở giáo dục",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-98e1-7328-a826-74115e520507"
+  },
+  {
+    "stt": 31,
+    "code": "1.001731.01",
+    "title": "Hỗ trợ chi phí mai táng cho đối tượng bảo trợ xã hội",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-b7dd-7239-b166-b6cd79d326b8"
+  },
+  {
+    "stt": 32,
+    "code": "1.001766.01",
+    "title": "Thủ tục đăng ký khai tử có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-47da-7259-b8fe-0d5327727234"
+  },
+  {
+    "stt": 33,
+    "code": "1.001776.01",
+    "title": "Thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-b7e6-740b-9573-24f800e8664d"
+  },
+  {
+    "stt": 34,
+    "code": "1.002211.01",
+    "title": "Thủ tục công nhận hòa giải viên (cấp xã)",
+    "agency": "Bộ Tư pháp",
+    "category": "Hòa giải ở cơ sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-572d-77fe-b70b-93b6512c3170"
+  },
+  {
+    "stt": 35,
+    "code": "1.002372.01",
+    "title": "Xác nhận việc trình kháng nghị hàng hải",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-1afd-749b-9051-5d4c422509e0"
+  },
+  {
+    "stt": 36,
+    "code": "1.002693.01",
+    "title": "Cấp giấy phép chặt hạ, dịch chuyển cây xanh",
+    "agency": "Bộ Xây dựng",
+    "category": "Hạ tầng kỹ thuật",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-230c-75d8-8979-11b8bdc68e6c"
+  },
+  {
+    "stt": 37,
+    "code": "1.003347.01",
+    "title": "Phê duyệt, công bố công khai quy trình vận hành hồ chứa thủy lợi thuộc thẩm quyền của Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-18b5-72ba-b2d3-9f318566bf80"
+  },
+  {
+    "stt": 38,
+    "code": "1.003434.01",
+    "title": "Hỗ trợ dự án liên kết (cấp xã)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Kinh tế hợp tác và Phát triển nông thôn",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-18e5-71bf-9849-3fc86ee34b8a"
+  },
+  {
+    "stt": 39,
+    "code": "1.003440.01",
+    "title": "Thẩm định, phê duyệt phương án ứng phó với tình huống khẩn cấp thuộc thẩm quyền của UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-18ee-778b-9a30-66fd633ab7f3"
+  },
+  {
+    "stt": 40,
+    "code": "1.003446.01",
+    "title": "Thẩm định, phê duyệt phương án ứng phó thiên tai cho công trình, vùng hạ du đập trong quá trình thi công thuộc thẩm quyền của UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-18f1-777d-95ef-b4b7dca1255c"
+  },
+  {
+    "stt": 41,
+    "code": "1.003471.01",
+    "title": "Phê duyệt đề cương, kết quả kiểm định an toàn đập, hồ chứa thủy lợi thuộc thẩm quyền của Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-2094-75aa-a75e-92fa750dd0f4"
+  },
+  {
+    "stt": 42,
+    "code": "1.003583.01",
+    "title": "Thủ tục đăng ký khai sinh lưu động",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-66dc-714a-90a8-11942739ea86"
+  },
+  {
+    "stt": 43,
+    "code": "1.003586.01",
+    "title": "Cấp giấy chứng nhận đăng ký tạm thời tàu cá, tàu phục vụ nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-20b2-742e-8585-48cc014f9049"
+  },
+  {
+    "stt": 44,
+    "code": "1.003596.01",
+    "title": "Phê duyệt kế hoạch khuyến nông địa phương (cấp xã)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Nông nghiệp",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-20c8-732f-b6fa-e4684a0aad75"
+  },
+  {
+    "stt": 45,
+    "code": "1.003622.01",
+    "title": "Thủ tục thông báo tổ chức lễ hội cấp xã",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Văn hóa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-c4cb-734d-bb80-29723a707c08"
+  },
+  {
+    "stt": 46,
+    "code": "1.003634.01",
+    "title": "Cấp lại giấy chứng nhận đăng ký tàu cá, tàu phục vụ nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-2869-773c-8a80-8ded06a65be6"
+  },
+  {
+    "stt": 47,
+    "code": "1.003650.01",
+    "title": "Cấp giấy chứng nhận đăng ký tàu cá, tàu phục vụ nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-2864-76fe-9234-7c54e1661f21"
+  },
+  {
+    "stt": 48,
+    "code": "1.003658.01",
+    "title": "Công bố lại hoạt động bến thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3a50-73c9-95e6-b093a912c6ed"
+  },
+  {
+    "stt": 49,
+    "code": "1.003681.01",
+    "title": "Xóa đăng ký tàu cá, tàu phục vụ nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-286c-7701-adcc-2ef71bbbe72e"
+  },
+  {
+    "stt": 50,
+    "code": "1.003702.01",
+    "title": "Hỗ trợ học tập đối với trẻ mẫu giáo, học sinh tiểu học, học sinh trung học cơ sở, sinh viên các dân tộc thiểu số rất ít người",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-a0b7-73bc-a140-d0bbe50f7991"
+  },
+  {
+    "stt": 51,
+    "code": "1.003930.01",
+    "title": "Cấp lại Giấy chứng nhận đăng ký phương tiện",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3a75-729d-b70f-b9cea7a16fb3"
+  },
+  {
+    "stt": 52,
+    "code": "1.003956.01",
+    "title": "Công nhận và giao quyền quản lý cho tổ chức cộng đồng (thuộc địa bàn quản lý)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3043-765f-bc87-ca61828f4c4e"
+  },
+  {
+    "stt": 53,
+    "code": "1.003970.01",
+    "title": "Đăng ký lại phương tiện trong trường hợp chuyển quyền sở hữu phương tiện đồng thời thay đổi cơ quan đăng ký phương tiện",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3a78-77fc-b264-7ec29212cb43"
+  },
+  {
+    "stt": 54,
+    "code": "1.004002.01",
+    "title": "Đăng ký lại phương tiện trong trường hợp chuyển quyền sở hữu phương tiện nhưng không thay đổi cơ quan đăng ký phương tiện",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3a7b-7789-9f25-1ec7a3f64d81"
+  },
+  {
+    "stt": 55,
+    "code": "1.004036.01",
+    "title": "Đăng ký lại phương tiện trong trường hợp chuyển từ cơ quan đăng ký khác sang cơ quan đăng ký phương tiện thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3a96-7539-a429-b3b40b607710"
+  },
+  {
+    "stt": 56,
+    "code": "1.004047.01",
+    "title": "Đăng ký phương tiện lần đầu đối với phương tiện đang khai thác trên đường thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3a86-717c-992c-1393a2f50382"
+  },
+  {
+    "stt": 57,
+    "code": "1.004088.01",
+    "title": "Đăng ký phương tiện lần đầu đối với phương tiện chưa khai thác trên đường thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-3b31-723b-920f-539e8ad6cf95"
+  },
+  {
+    "stt": 58,
+    "code": "1.004179.01",
+    "title": "Cấp giấy phép khai thác nước mặt, nước biển (đối với các trường hợp quy định tại khoản 2 Điều 15 Nghị định số 54/2024/NĐ-CP, được sửa đổi, bổ sung bởi khoản 12 Điều 2 Nghị định số 23/2026/NĐ-CP)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3065-72e3-b3cc-2b988ac57951"
+  },
+  {
+    "stt": 59,
+    "code": "1.004211.01",
+    "title": "Gia hạn, điều chỉnh giấy phép khai thác nước dưới đất đối với công trình có quy mô dưới 5.000 m3/ngày đêm",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3071-7647-b4b8-55c1f6e981a9"
+  },
+  {
+    "stt": 60,
+    "code": "1.004223.01",
+    "title": "Cấp giấy phép khai thác nước dưới đất đối với công trình có quy mô dưới 5.000 m3/ngày đêm",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-307e-73c8-b0e1-dc6add6341d7"
+  },
+  {
+    "stt": 61,
+    "code": "1.004228.01",
+    "title": "Gia hạn, điều chỉnh giấy phép thăm dò nước dưới đất đối với công trình có quy mô dưới 5.000 m3/ngày đêm",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3077-750c-87ed-b53c910e2f20"
+  },
+  {
+    "stt": 62,
+    "code": "1.004232.01",
+    "title": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có quy mô dưới 5.000 m3/ngày đêm",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3071-7647-b4b8-51b83d34bafa"
+  },
+  {
+    "stt": 63,
+    "code": "1.004283.01",
+    "title": "Điều chỉnh tiền cấp quyền khai thác tài nguyên nước",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3073-734a-9066-c9fb72f0901c"
+  },
+  {
+    "stt": 64,
+    "code": "1.004359.01",
+    "title": "Cấp, cấp lại Giấy phép khai thác thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3815-712d-a33f-c571e5d7fdc2"
+  },
+  {
+    "stt": 65,
+    "code": "1.004478.01",
+    "title": "Công bố mở cảng cá loại III",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3845-71a4-8d69-97f50d631417"
+  },
+  {
+    "stt": 66,
+    "code": "1.004498.01",
+    "title": "Sửa đổi, bổ sung nội dung quyết định công nhận và giao quyền quản lý cho tổ chức cộng đồng (thuộc địa bàn quản lý)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-384d-7237-aed7-1af004e30b58"
+  },
+  {
+    "stt": 67,
+    "code": "1.004563.01",
+    "title": "Sáp nhập, chia, tách trường tiểu học",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục tiểu học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-a0e4-750f-947b-2b7f9827739a"
+  },
+  {
+    "stt": 68,
+    "code": "1.004656.01",
+    "title": "Xác nhận nguồn gốc loài thủy sản thuộc Phụ lục Công ước quốc tế về buôn bán các loài động vật, thực vật hoang dã nguy cấp; loài thủy sản nguy cấp, quý, hiếm có nguồn gốc khai thác từ tự nhiên",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3885-75ec-ad63-ccfd4b902839"
+  },
+  {
+    "stt": 69,
+    "code": "1.004680.01",
+    "title": "Xác nhận nguồn gốc loài thủy sản thuộc Phụ lục Công ước quốc tế về buôn bán các loài động vật, thực vật hoang dã nguy cấp và các loài thủy sản nguy cấp, quý, hiếm có nguồn gốc từ nuôi trồng",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-3fef-71ed-96e2-eceef638f007"
+  },
+  {
+    "stt": 70,
+    "code": "1.004746.01",
+    "title": "Thủ tục đăng ký lại kết hôn",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-6711-733d-b674-f82cb6606242"
+  },
+  {
+    "stt": 71,
+    "code": "1.004772.01",
+    "title": "Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-6711-733d-b674-fc3d805e70c8"
+  },
+  {
+    "stt": 72,
+    "code": "1.004827.01",
+    "title": "Thủ tục đăng ký khai tử có yếu tố nước ngoài tại khu vực biên giới",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-670b-779a-a843-4c518c4ec075"
+  },
+  {
+    "stt": 73,
+    "code": "1.004837.01",
+    "title": "Thủ tục đăng ký giám hộ",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-671b-75fa-82fb-8ad05a37f638"
+  },
+  {
+    "stt": 74,
+    "code": "1.004839.01",
+    "title": "Cấp lại Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thú y",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-4018-773a-ab1d-769179078c1f"
+  },
+  {
+    "stt": 75,
+    "code": "1.004844.01",
+    "title": "Cấp lại Giấy chứng nhận đăng ký phương tiện giao thông đường sắt",
+    "agency": "Bộ Xây dựng",
+    "category": "Đường sắt",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-4a48-70ed-82ed-4708266132d0"
+  },
+  {
+    "stt": 76,
+    "code": "1.004845.01",
+    "title": "Thủ tục đăng ký chấm dứt giám hộ",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-6724-715f-822c-28e986912730"
+  },
+  {
+    "stt": 77,
+    "code": "1.004859.01",
+    "title": "Thủ tục thay đổi, cải chính, bổ sung thông tin hộ tịch, xác định lại dân tộc",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-671e-714b-8fd6-8230c82f7867"
+  },
+  {
+    "stt": 78,
+    "code": "1.004873.01",
+    "title": "Thủ tục cấp Giấy xác nhận tình trạng hôn nhân",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-6eb3-7019-bf3f-fc58c9ee44b9"
+  },
+  {
+    "stt": 79,
+    "code": "1.004884.01",
+    "title": "Thủ tục đăng ký lại khai sinh",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-6eac-7598-b88b-15f8a61b366a"
+  },
+  {
+    "stt": 80,
+    "code": "1.004901.01",
+    "title": "Cấp đổi Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df2c-74f3-8af6-e48a719ef3d9"
+  },
+  {
+    "stt": 81,
+    "code": "1.004941.01",
+    "title": "Đăng ký nhận chăm sóc thay thế cho trẻ em đối với cá nhân, người đại diện gia đình nhận chăm sóc thay thế không phải là người thân thích của trẻ em",
+    "agency": "Bộ Y tế",
+    "category": "Trẻ em",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-061f-74ea-9f1a-7afff1ba691a"
+  },
+  {
+    "stt": 82,
+    "code": "1.004944.01",
+    "title": "Chấm dứt việc chăm sóc thay thế cho trẻ em",
+    "agency": "Bộ Y tế",
+    "category": "Trẻ em",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-061e-754b-9a9b-2d642bcabeb4"
+  },
+  {
+    "stt": 83,
+    "code": "1.004946.01",
+    "title": "Áp dụng các biện pháp can thiệp khẩn cấp hoặc tạm thời cách ly trẻ em khỏi môi trường hoặc người gây tổn hại cho trẻ em",
+    "agency": "Bộ Y tế",
+    "category": "Trẻ em",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-06f3-72b8-8ee4-370feddbb374"
+  },
+  {
+    "stt": 84,
+    "code": "1.004964.01",
+    "title": "Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp Lào, Căm-pu-chi-a",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-e4a2-75d8-86ea-b4887b227b25"
+  },
+  {
+    "stt": 85,
+    "code": "1.004979.01",
+    "title": "Thông báo thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã; Thông báo thay đổi nội dung đăng ký đối với hợp tác xã, liên hiệp hợp tác xã bị tách, nhận sáp nhập",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df29-704d-8fe8-deafd721c54b"
+  },
+  {
+    "stt": 86,
+    "code": "1.004982.01",
+    "title": "Đăng ký giải thể hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df21-71b8-a4b2-634a2adec623"
+  },
+  {
+    "stt": 87,
+    "code": "1.005010.01",
+    "title": "Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df25-74f6-b5fb-0951a4719ba5"
+  },
+  {
+    "stt": 88,
+    "code": "1.005040.01",
+    "title": "Xác nhận trình báo đường thủy nội địa hoặc trình báo đường thủy nội địa bổ sung",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-51d5-757f-b5c5-97ba7e88aed2"
+  },
+  {
+    "stt": 89,
+    "code": "1.005090.01",
+    "title": "Xét tuyển sinh vào trường phổ thông dân tộc nội trú",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Thi, tuyển sinh",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-a8e3-748e-a65e-e8722c0985e9"
+  },
+  {
+    "stt": 90,
+    "code": "1.005277.01",
+    "title": "Đăng ký thay đổi nội dung đăng ký hợp tác xã, liên hiệp hợp tác xã; Đăng ký thay đổi nội dung đối với trường hợp hợp tác xã, liên hiệp hợp tác xã bị tách, nhận sáp nhập",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df1f-73fa-97e4-f60546098f7f"
+  },
+  {
+    "stt": 91,
+    "code": "1.005280.01",
+    "title": "Đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã; đăng ký chuyển đổi tổ hợp tác thành hợp tác xã; đăng ký khi hợp tác xã, liên hiệp hợp tác xã chia, tách, hợp nhất",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df2c-74f3-8af6-ef7dc8d36f08"
+  },
+  {
+    "stt": 92,
+    "code": "1.005378.01",
+    "title": "Đăng ký thay đổi nội dung đăng ký hoạt động của chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-df3a-71d0-af09-cf4e1a45e6a4"
+  },
+  {
+    "stt": 93,
+    "code": "1.005401.01",
+    "title": "Giao khu vực biển (cấp tỉnh)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Biển và hải đảo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-47e7-72f4-a3e1-e55690a15974"
+  },
+  {
+    "stt": 94,
+    "code": "1.005461.01",
+    "title": "Đăng ký lại khai tử - cấp tinh",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-6ebc-709e-8678-a9f8b66738f2"
+  },
+  {
+    "stt": 95,
+    "code": "1.006391.01",
+    "title": "Đăng ký lại phương tiện trong trường hợp chủ phương tiện thay đổi trụ sở hoặc nơi đăng ký hộ khẩu thường trú của chủ phương tiện sang đơn vị hành chính cấp tỉnh khác",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-5208-7747-a4b2-cba5449b28fa"
+  },
+  {
+    "stt": 96,
+    "code": "1.006468.01",
+    "title": "Thủ tục hải quan đối với hàng hoá kinh doanh tạm nhập-tái xuất",
+    "agency": "Bộ Tài chính",
+    "category": "Hải quan",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-e738-701f-8479-c44536d19210"
+  },
+  {
+    "stt": 97,
+    "code": "1.007919.01",
+    "title": "Thẩm định thiết kế, dự toán công trình lâm sinh hoặc thẩm định điều chỉnh thiết kế, dự toán công trình lâm sinh sử dụng vốn đầu tư công đối với công trình lâm sinh thuộc dự án do Chủ tịch Ủy ban nhân dân cấp xã quyết định đầu tư",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-47f7-718f-8b27-0d6e6a357e0a"
+  },
+  {
+    "stt": 98,
+    "code": "1.008004.01",
+    "title": "Chuyển đổi cơ cấu cây trồng, vật nuôi trên đất trồng lúa",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Trồng trọt",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-4f9f-7354-9e92-57219bbd01e0"
+  },
+  {
+    "stt": 99,
+    "code": "1.008725.01",
+    "title": "Chuyển đổi trường tiểu học tư thục, trường trung học cơ sở tư thục và trường phổ thông tư thục có nhiều cấp học có cấp học cao nhất là trung học cơ sở do nhà đầu tư trong nước đầu tư sang trường phổ thông tư thục hoạt động không vì lợi nhuận",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-b0a7-718d-8f7b-94d61cfa622b"
+  },
+  {
+    "stt": 100,
+    "code": "1.008950.01",
+    "title": "Trợ cấp đối với trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-b0a4-756f-a185-c74fda62ef1c"
+  },
+  {
+    "stt": 101,
+    "code": "1.008951.01",
+    "title": "Hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-b0b2-7055-8dda-a3270391d92e"
+  },
+  {
+    "stt": 102,
+    "code": "1.009407.01",
+    "title": "Công bố đáp ứng tiêu chuẩn chế biến, bào chế thuốc cổ truyền đối với cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền trực thuộc quản lý của Sở Y tế",
+    "agency": "Bộ Y tế",
+    "category": "Y Dược cổ truyền",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-0e24-732d-9992-1d352d13852e"
+  },
+  {
+    "stt": 103,
+    "code": "1.009444.01",
+    "title": "Gia hạn hoạt động cảng, bến thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-6951-73d1-87ff-0b72cd7872e0"
+  },
+  {
+    "stt": 104,
+    "code": "1.009447.01",
+    "title": "Công bố đóng cảng, bến thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-695f-7532-8e36-f0e475e3d863"
+  },
+  {
+    "stt": 105,
+    "code": "1.009452.01",
+    "title": "Thỏa thuận thông số kỹ thuật xây dựng bến thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-6981-7718-a29d-ed53f11adf84"
+  },
+  {
+    "stt": 106,
+    "code": "1.009453.01",
+    "title": "Thỏa thuận thông số kỹ thuật xây dựng bến khách ngang sông, bến thủy nội địa phục vụ thi công công trình chính",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-6969-7309-beb8-559700c3087e"
+  },
+  {
+    "stt": 107,
+    "code": "1.009454.01",
+    "title": "Công bố hoạt động bến thủy nội địa",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-698f-702b-8d82-1bd9fb9d8c8f"
+  },
+  {
+    "stt": 108,
+    "code": "1.009455.01",
+    "title": "Công bố hoạt động bến khách ngang sông, bến thủy nội địa phục vụ thi công công trình chính",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-6984-70e8-a897-8b5c5191fab1"
+  },
+  {
+    "stt": 109,
+    "code": "1.009465.01",
+    "title": "Chấp thuận phương án bảo đảm an toàn giao thông",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-6995-7036-9a0e-ed4c39b2f136"
+  },
+  {
+    "stt": 110,
+    "code": "1.009481.01",
+    "title": "Công nhận khu vực biển (cấp tỉnh)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Biển và hải đảo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-576c-750e-bee2-da76667030aa"
+  },
+  {
+    "stt": 111,
+    "code": "1.009794.01",
+    "title": "Kiểm tra công tác nghiệm thu hoàn thành công trình của cơ quan chuyên môn về xây dựng tại địa phương",
+    "agency": "Bộ Xây dựng",
+    "category": "Quản lý chất lượng công trình xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-712b-7199-8f22-d5fc91ab8426"
+  },
+  {
+    "stt": 112,
+    "code": "1.010091.01",
+    "title": "Hỗ trợ khám chữa bệnh, trợ cấp tai nạn cho lực lượng xung kích phòng chống thiên tai cấp xã trong trường hợp chưa tham gia bảo hiểm y tế, bảo hiểm xã hội",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Quản lý Đê điều và Phòng, chống thiên tai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5781-744b-a4a6-7d52c45ad026"
+  },
+  {
+    "stt": 113,
+    "code": "1.010092.01",
+    "title": "Trợ cấp tiền tuất, tai nạn (đối với trường hợp tai nạn suy giảm khả năng lao động từ 5% trở lên) cho lực lượng xung kích phòng chống thiên tai cấp xã chưa tham gia bảo hiểm xã hội",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Quản lý Đê điều và Phòng, chống thiên tai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5787-70e4-a42f-b3e1e9ca9435"
+  },
+  {
+    "stt": 114,
+    "code": "1.010727.01",
+    "title": "Cấp giấy phép môi trường (cấp Tỉnh) (1.010727 )",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Môi trường",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-57a8-7645-92f1-3b0aa3ad976f"
+  },
+  {
+    "stt": 115,
+    "code": "1.010729.01",
+    "title": "Cấp điều chỉnh giấy phép môi trường (cấp Tỉnh) (1.010729)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Môi trường",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-57af-75ff-bff7-9b08bbec89d9"
+  },
+  {
+    "stt": 116,
+    "code": "1.010733.01",
+    "title": "Thẩm định báo cáo đánh giá tác động môi trường (Cấp tỉnh) (1.010733)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Môi trường",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5f49-714d-b0b9-32154e480511"
+  },
+  {
+    "stt": 117,
+    "code": "1.010736.01",
+    "title": "Tham vấn trong đánh giá tác động môi trường (cấp xã) (1.010736)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Môi trường",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5f3e-764e-96a8-f159b09b08cf"
+  },
+  {
+    "stt": 118,
+    "code": "1.010772.01",
+    "title": "Cấp Bằng “Tổ quốc ghi công”",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-f478-708b-8987-c219c8eed130"
+  },
+  {
+    "stt": 119,
+    "code": "1.010774.01",
+    "title": "Cấp Bằng “Tổ quốc ghi công” đối với người hy sinh nhưng chưa được cấp Bằng “Tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 31 tháng 12 năm 1994 trở về trước",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d9091-a9a9-7358-9145-134565030af5"
+  },
+  {
+    "stt": 120,
+    "code": "1.010775.01",
+    "title": "Cấp Bằng “Tổ quốc ghi công” đối với người hy sinh thuộc các trường hợp quy định tại Điều 14 Pháp lệnh nhưng chưa được cấp Bằng “Tổ quốc ghi công” mà thân nhân đã được giải quyết chế độ ưu đãi từ ngày 01 tháng 01 năm 1995 đến ngày 30 tháng 9 năm 2006",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fbf7-70d3-9bf0-ea139ebdac2b"
+  },
+  {
+    "stt": 121,
+    "code": "1.010777.01",
+    "title": "Cấp đổi Bằng “Tổ quốc ghi công”",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fbfa-77c8-a91c-8b9006f9903c"
+  },
+  {
+    "stt": 122,
+    "code": "1.010778.01",
+    "title": "Cấp lại Bằng “Tổ quốc ghi công”",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fbf8-727d-a4be-847d1f9944ce"
+  },
+  {
+    "stt": 123,
+    "code": "1.010781.01",
+    "title": "Cấp Bằng “Tổ quốc ghi công” đối với người hy sinh hoặc mất tích trong chiến tranh",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fbfa-77c8-a91c-924c856d4048"
+  },
+  {
+    "stt": 124,
+    "code": "1.010783.01",
+    "title": "Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do Bộ Nội vụ quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fbfd-738f-a655-4f5fceb2ccaa"
+  },
+  {
+    "stt": 125,
+    "code": "1.010788.01",
+    "title": "Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fbf9-725e-a704-339f3146cf98"
+  },
+  {
+    "stt": 126,
+    "code": "1.010801.01",
+    "title": "Giải quyết chế độ trợ cấp ưu đãi đối với thân nhân liệt sĩ",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc0a-75c8-bd91-60aeab6fb018"
+  },
+  {
+    "stt": 127,
+    "code": "1.010802.02",
+    "title": "Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc12-718c-9862-b5eddeb01176"
+  },
+  {
+    "stt": 128,
+    "code": "1.010803.01",
+    "title": "Giải quyết chế độ trợ cấp thờ cúng liệt sĩ.",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc0c-7046-b5dc-04303a18608d"
+  },
+  {
+    "stt": 129,
+    "code": "1.010804.01",
+    "title": "Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc truy tặng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng\"",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc19-758c-beff-fe2354493cca"
+  },
+  {
+    "stt": 130,
+    "code": "1.010805.01",
+    "title": "Giải quyết chế độ ưu đãi đối với Anh hùng lực lượng vũ trang nhân dân, Anh hùng lao động trong thời kỳ kháng chiến hiện không công tác trong quân đội, công an",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc18-7204-93c4-14844eb6c354"
+  },
+  {
+    "stt": 131,
+    "code": "1.010810.01",
+    "title": "Công nhận đối với người bị thương trong chiến tranh không thuộc quân đội, công an",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc27-71cd-8eb4-a3f803216fe7"
+  },
+  {
+    "stt": 132,
+    "code": "1.010811.02",
+    "title": "Cấp tiền mua phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng đối với trường hợp đang sống tại gia đình hoặc đang được nuôi dưỡng tập trung tại các cơ sở nuôi dưỡng, điều dưỡng do địa phương quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc21-710a-9e17-5f9a67e9c7e1"
+  },
+  {
+    "stt": 133,
+    "code": "1.010812.01",
+    "title": "Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc1c-75e4-83a4-2df12d6eadb0"
+  },
+  {
+    "stt": 134,
+    "code": "1.010814.01",
+    "title": "Cấp bổ sung hoặc cấp lại giấy chứng nhận người có công do ngành Lao động - Thương binh và Xã hội quản lý và giấy chứng nhận thân nhân liệt sĩ",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc21-710a-9e17-59cdb35c723b"
+  },
+  {
+    "stt": 135,
+    "code": "1.010815.01",
+    "title": "Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng.",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc2a-765c-9503-edf3481ba1c4"
+  },
+  {
+    "stt": 136,
+    "code": "1.010816.01",
+    "title": "Công nhận và giải quyết chế độ ưu đãi người hoạt động kháng chiến bị nhiễm chất độc hóa học",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc29-7229-b30a-9311da45f3ca"
+  },
+  {
+    "stt": 137,
+    "code": "1.010817.01",
+    "title": "Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc2d-76fc-813b-8b20ba3e1e8f"
+  },
+  {
+    "stt": 138,
+    "code": "1.010818.01",
+    "title": "Công nhận và giải quyết chế độ người hoạt động cách mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc2b-724d-8f15-ec8dbd06a4ed"
+  },
+  {
+    "stt": 139,
+    "code": "1.010819.01",
+    "title": "Giải quyết chế độ người hoạt động kháng chiến giải phóng dân tộc, bảo vệ tổ quốc và làm nghĩa vụ quốc tế",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc33-7068-b98d-1b1eba21519f"
+  },
+  {
+    "stt": 140,
+    "code": "1.010820.01",
+    "title": "Giải quyết chế độ người có công giúp đỡ cách mạng.",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc32-7233-91ef-87cd222c5a1b"
+  },
+  {
+    "stt": 141,
+    "code": "1.010821.01",
+    "title": "Giải quyết chế độ hỗ trợ để theo học đến trình độ đại học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc33-761f-9cd2-7bd8df9cf897"
+  },
+  {
+    "stt": 142,
+    "code": "1.010824.01",
+    "title": "Hưởng trợ cấp khi người có công đang hưởng trợ cấp ưu đãi từ trần",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc36-7611-9219-adb6dee5774f"
+  },
+  {
+    "stt": 143,
+    "code": "1.010825.01",
+    "title": "Bổ sung tình hình thân nhân trong hồ sơ liệt sĩ.",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-fc36-74e9-9909-551c04aa6c27"
+  },
+  {
+    "stt": 144,
+    "code": "1.010829.02",
+    "title": "Di chuyển hài cốt liệt sĩ đang an táng tại nghĩa trang liệt sĩ đi nơi khác theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-03d3-70af-992d-5d6a838fc263"
+  },
+  {
+    "stt": 145,
+    "code": "1.010830.01",
+    "title": "Di chuyển hài cốt liệt sĩ đang an táng ngoài nghĩa trang liệt sĩ về an táng tại nghĩa trang liệt sĩ theo nguyện vọng của đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-03d2-702c-b7fc-df4fe7f8b3b0"
+  },
+  {
+    "stt": 146,
+    "code": "1.010833.01",
+    "title": "Cấp giấy xác nhận thân nhân của người có công",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-03d5-700b-9bb5-d92070224137"
+  },
+  {
+    "stt": 147,
+    "code": "1.011471.01",
+    "title": "Phê duyệt Phương án khai thác gỗ, thực vật rừng ngoài gỗ loài thông thường thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5f58-757b-a75e-76488561cdd0"
+  },
+  {
+    "stt": 148,
+    "code": "1.011518.01",
+    "title": "Trả lại giấy phép thăm dò nước dưới đất, giấy phép khai thác tài nguyên nước .",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5fe1-723a-b9e3-53da4b92e987"
+  },
+  {
+    "stt": 149,
+    "code": "1.011609.01",
+    "title": "Công nhận hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Giảm nghèo",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-5f79-70bf-bc74-661346debe8c"
+  },
+  {
+    "stt": 150,
+    "code": "1.012084.01",
+    "title": "Thủ tục cấm tiếp xúc theo Quyết định của Chủ tịch Ủy ban nhân dân cấp xã theo đề nghị của cơ quan, tổ chức cá nhân",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Gia đình",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-ebf7-71af-90e5-9e9ffe94bcaa"
+  },
+  {
+    "stt": 151,
+    "code": "1.012085.02",
+    "title": "Hủy bỏ Quyết định cấm tiếp xúc theo đơn đề nghị",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Gia đình",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-ebf9-75cc-b9d0-a639b35a5f14"
+  },
+  {
+    "stt": 152,
+    "code": "1.012222.01",
+    "title": "Công nhận người có uy tín",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Công tác dân tộc",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-5247-7178-bf1f-a9e07e099434"
+  },
+  {
+    "stt": 153,
+    "code": "1.012223.01",
+    "title": "Đưa ra khỏi danh sách và thay thế, bổ sung người có uy tín",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Công tác dân tộc",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-523b-764d-976a-7739bdce7672"
+  },
+  {
+    "stt": 154,
+    "code": "1.012299.01",
+    "title": "Thủ tục thi tuyển Viên Chức (Nghị định số 85/2023/NĐ-CP)",
+    "agency": "Bộ Nội vụ",
+    "category": "Công chức, viên chức",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-03f0-7078-ad39-64a461bea4a8"
+  },
+  {
+    "stt": 155,
+    "code": "1.012300.01",
+    "title": "Thủ tục xét tuyển Viên chức (85/2023/NĐ-CP)",
+    "agency": "Bộ Nội vụ",
+    "category": "Công chức, viên chức",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-03ea-77ce-8415-a1de87628f91"
+  },
+  {
+    "stt": 156,
+    "code": "1.012301.01",
+    "title": "Thủ tục tiếp nhận vào viên chức không giữ chức vụ quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Công chức, viên chức",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-03ec-73b0-a33e-3c6201a6f64a"
+  },
+  {
+    "stt": 157,
+    "code": "1.012422.01",
+    "title": "Đề nghị xét tặng Danh hiệu “Thầy thuốc Nhân dân”, “Thầy thuốc Ưu tú”",
+    "agency": "Bộ Y tế",
+    "category": "Thi đua, khen thưởng",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-2561-77c8-a1f6-028851fa4069"
+  },
+  {
+    "stt": 158,
+    "code": "1.012427.01",
+    "title": "Thành lập/mở rộng cụm công nghiệp",
+    "agency": "Bộ Công thương",
+    "category": "Cụm Công nghiệp",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-fc13-74f5-bd7a-f5c821c74ed2"
+  },
+  {
+    "stt": 159,
+    "code": "1.012531.01",
+    "title": "Hỗ trợ tín dụng đầu tư trồng rừng gỗ lớn đối với chủ rừng là hộ gia đình, cá nhân",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-675f-7649-b8b2-b92e5c359abf"
+  },
+  {
+    "stt": 160,
+    "code": "1.012568.01",
+    "title": "Giao tài sản kết cấu hạ tầng chợ do cấp xã quản lý",
+    "agency": "Bộ Công thương",
+    "category": "Tài sản kết cấu hạ tầng chợ do Nhà nước đầu tư, quản lý",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-fc47-724d-98ee-1785e5599e34"
+  },
+  {
+    "stt": 161,
+    "code": "1.012569.01",
+    "title": "Thu hồi tài sản kết cấu hạ tầng chợ",
+    "agency": "Bộ Công thương",
+    "category": "Tài sản kết cấu hạ tầng chợ do Nhà nước đầu tư, quản lý",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-fc53-748c-8af0-461a97b5f80b"
+  },
+  {
+    "stt": 162,
+    "code": "1.012582.01",
+    "title": "Thủ tục đề nghị thay đổi địa điểm sinh hoạt tôn giáo tập trung đến địa bàn khác (cấp xã)",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-527d-71d2-9b0f-140dbedfc8c3"
+  },
+  {
+    "stt": 163,
+    "code": "1.012584.01",
+    "title": "THỦ TỤC ĐỀ NGHỊ THAY ĐỔI ĐỊA ĐIỂM SINH HOẠT TÔN GIÁO TẬP TRUNG TRONG ĐỊA BÀN MỘT XÃ (CẤP XÃ)",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-530e-70ea-aa95-0ff1cea87193"
+  },
+  {
+    "stt": 164,
+    "code": "1.012585.01",
+    "title": "THỦ TỤC ĐĂNG KÝ THAY ĐỔI NGƯỜI ĐẠI DIỆN CỦA NHÓM SINH HOẠT TÔN GIÁO TẬP TRUNG (CẤP XÃ)",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-5281-74ff-b142-aca6e8ec0d6d"
+  },
+  {
+    "stt": 165,
+    "code": "1.012590.01",
+    "title": "THỦ TỤC ĐĂNG KÝ SINH HOẠT TÔN GIÁO TẬP TRUNG (CẤP XÃ)",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-5319-70f7-968b-bbdcb5f75aa5"
+  },
+  {
+    "stt": 166,
+    "code": "1.012591.01",
+    "title": "THỦ TỤC ĐĂNG KÝ BỔ SUNG HOẠT ĐỘNG TÍN NGƯỠNG (CẤP XÃ)",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-5292-7259-bdc8-9c9e32f3c5f1"
+  },
+  {
+    "stt": 167,
+    "code": "1.012592.02",
+    "title": "THỦ TỤC ĐĂNG KÝ HOẠT ĐỘNG TÍN NGƯỠNG (CẤP XÃ)",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-526e-75a6-bafe-148cf029f697"
+  },
+  {
+    "stt": 168,
+    "code": "1.012694.01",
+    "title": "Chuyển mục đích sử dụng rừng sang mục đích khác đối với cá nhân",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Kiểm lâm",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6ef5-7737-a1e5-62fbb059a72b"
+  },
+  {
+    "stt": 169,
+    "code": "1.012749.01",
+    "title": "Hỗ trợ chi phí khuyến khích sử dụng hình thức hỏa táng",
+    "agency": "Sở Xây dựng - tỉnh Quảng Ngãi",
+    "category": "Bảo trợ xã hội",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019da601-350c-755b-9393-18754910591d"
+  },
+  {
+    "stt": 170,
+    "code": "1.012753.01",
+    "title": "Đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu đối với tổ chức đang sử dụng đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6eeb-7460-9097-1804edf38aec"
+  },
+  {
+    "stt": 171,
+    "code": "1.012756.01",
+    "title": "Đăng ký đất đai lần đầu đối với trường hợp được Nhà nước giao đất để quản lý.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6ef6-721c-8d2f-7fca1fdbfa3c"
+  },
+  {
+    "stt": 172,
+    "code": "1.012766.01",
+    "title": "Xóa đăng ký thuê, cho thuê lại quyền sử dụng đất trong dự án xây dựng kinh doanh kết cấu hạ tầng",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6f11-772a-8dda-5bf1a8d83029"
+  },
+  {
+    "stt": 173,
+    "code": "1.012781.01",
+    "title": "Đăng ký, cấp Giấy chứng nhận đối với thửa đất có diện tích tăng thêm do thay đổi ranh giới so với Giấy chứng nhận đã cấp",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6f56-7319-be2d-b8dad4668ce3"
+  },
+  {
+    "stt": 174,
+    "code": "",
+    "title": "Đăng ký, cấp Giấy chứng nhận đối với trường hợp cá nhân, hộ gia đình đã được cấp Giấy chứng nhận một phần diện tích vào loại đất ở trước ngày 01 tháng 7 năm 2004, phần diện tích còn lại của thửa đất chưa được cấp Giấy chứng nhận",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6f6c-7009-bce8-877375012f82"
+  },
+  {
+    "stt": 175,
+    "code": "1.012783.01",
+    "title": "Cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6f3b-7238-9e41-307101b01795"
+  },
+  {
+    "stt": 176,
+    "code": "1.012784.01",
+    "title": "Tách thửa hoặc hợp thửa đất.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-6f5d-72e6-9a68-ab8e3ba11c8b"
+  },
+  {
+    "stt": 177,
+    "code": "1.012785.01",
+    "title": "Đăng ký, cấp Giấy chứng nhận đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 8 năm 2024 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76ca-737a-845d-2e8fff8a93ed"
+  },
+  {
+    "stt": 178,
+    "code": "1.012786.01",
+    "title": "Cấp lại Giấy chứng nhận do bị mất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76c7-75db-b936-ff88fe49d880"
+  },
+  {
+    "stt": 179,
+    "code": "1.012787.01",
+    "title": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, quyền sở hữu nhà ở, công trình xây dựng trong dự án bất động sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76cb-741b-996e-2b45f564b292"
+  },
+  {
+    "stt": 180,
+    "code": "1.012791.01",
+    "title": "Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76ca-737a-845d-335f0de1a543"
+  },
+  {
+    "stt": 181,
+    "code": "1.012793.01",
+    "title": "Đăng ký biến động đối với trường hợp thành viên của hộ gia đình hoặc cá nhân đang sử dụng đất thành lập doanh nghiệp tư nhân và sử dụng đất vào hoạt động sản xuất kinh doanh của doanh nghiệp",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76c2-7591-be46-1d313830b2e4"
+  },
+  {
+    "stt": 182,
+    "code": "1.012796.01",
+    "title": "Đính chính Giấy chứng nhận đã cấp lần đầu có sai sót",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76cb-741b-996e-33d1ef50be50"
+  },
+  {
+    "stt": 183,
+    "code": "1.012812.01",
+    "title": "Hòa giải tranh chấp đất đai",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76e6-7468-b6f2-3d412e902b88"
+  },
+  {
+    "stt": 184,
+    "code": "1.012817.01",
+    "title": "Xác định lại diện tích đất ở của hộ gia đình, cá nhân đã được cấp Giấy chứng nhận trước ngày 01 tháng 7 năm 2004",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76ef-752f-a5e5-ff4ce5737bb1"
+  },
+  {
+    "stt": 185,
+    "code": "1.012818.01",
+    "title": "Thu hồi Giấy chứng nhận đã cấp lần đầu không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76e6-7468-b6f2-417e588578f5"
+  },
+  {
+    "stt": 186,
+    "code": "1.012821.01",
+    "title": "Thẩm định, phê duyệt phương án sử dụng đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-76f0-7068-baca-7e6fa3fe5598"
+  },
+  {
+    "stt": 187,
+    "code": "1.012836.01",
+    "title": "Hỗ trợ chi phí về vật tư phối giống nhân tạo gia súc gồm tinh đông lạnh, Nitơ lỏng, găng tay và dụng cụ dẫn tinh để phối giống cho trâu, bò cái; chi phí về liều tinh để thực hiện phối giống cho lợn nái, công cho người làm dịch vụ phối giống nhân tạo gia súc (trâu, bò)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Chăn nuôi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-7716-72bf-b4c8-2b4d1cbf6074"
+  },
+  {
+    "stt": 188,
+    "code": "1.012837.01",
+    "title": "Phê duyệt hỗ trợ kinh phí đào tạo, tập huấn để chuyển đổi từ chăn nuôi sang các nghề khác; chi phí cho cá nhân được đào tạo về kỹ thuật phối giống nhân tạo gia súc (trâu, bò); chi phí mua bình chứa Nitơ lỏng bảo quản tinh cho người làm dịch vụ phối giống nhân tạo gia súc (trâu, bò) đối với các chính sách sử dụng vốn sự nghiệp nguồn ngân sách nhà nước",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Chăn nuôi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-7709-762d-a041-dfefe2e1e92d"
+  },
+  {
+    "stt": 189,
+    "code": "1.012888.01",
+    "title": "Công nhận Ban quản trị nhà chung cư",
+    "agency": "Bộ Xây dựng",
+    "category": "Nhà ở và công sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-8124-711f-ad0c-71830d00b0b1"
+  },
+  {
+    "stt": 190,
+    "code": "1.012922.01",
+    "title": "Kiểm tra hiện trường rừng trồng bị thiệt hại",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-7e99-7158-a0c2-9c3fc614a785"
+  },
+  {
+    "stt": 191,
+    "code": "1.012963.01",
+    "title": "Thành lập hoặc cho phép thành lập trường tiểu học",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục tiểu học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-b877-7608-997a-29d84ca8f8a2"
+  },
+  {
+    "stt": 192,
+    "code": "1.012964.01",
+    "title": "Thành lập hoặc cho phép thành lập trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục trung học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c00f-77a9-9ca3-98ba5edb11b7"
+  },
+  {
+    "stt": 193,
+    "code": "1.012965.01",
+    "title": "Cho phép trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở hoạt động giáo dục",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục trung học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c00c-72eb-9315-e642588be1a0"
+  },
+  {
+    "stt": 194,
+    "code": "1.012967.01",
+    "title": "Sáp nhập, chia, tách trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục trung học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c017-756b-82d6-9b9cfb8cbd09"
+  },
+  {
+    "stt": 195,
+    "code": "1.012968.01",
+    "title": "Giải thể trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở (Theo đề nghị của tổ chức, cá nhân thành lập trường)",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục trung học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c011-721b-a412-23d4d7c413cd"
+  },
+  {
+    "stt": 196,
+    "code": "1.012969.01",
+    "title": "Thành lập hoặc cho phép thành lập trung tâm học tập cộng đồng",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục thường xuyên",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c00d-775f-97e8-08663f7a93cb"
+  },
+  {
+    "stt": 197,
+    "code": "1.012971.01",
+    "title": "Thành lập hoặc cho phép thành lập cơ sở giáo dục mầm non độc lập",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c019-71ee-a6ee-08f481984494"
+  },
+  {
+    "stt": 198,
+    "code": "1.012973.01",
+    "title": "Sáp nhập, chia, tách cơ sở giáo dục mầm non độc lập",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c014-73fb-929f-8b4bf3437031"
+  },
+  {
+    "stt": 199,
+    "code": "1.012974.01",
+    "title": "Giải thể cơ sở giáo dục mầm non độc lập (theo đề nghị của tổ chức, cá nhân thành lập trường)",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c01d-72f1-9905-407d7646cdc3"
+  },
+  {
+    "stt": 200,
+    "code": "1.012975.01",
+    "title": "Cho phép cơ sở giáo dục khác thực hiện chương trình giáo dục phổ thông cấp tiểu học",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Cơ sở giáo dục khác",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c01d-725e-8a4a-eda68004afde"
+  },
+  {
+    "stt": 201,
+    "code": "1.013040.01",
+    "title": "Thủ tục khai, nộp phí bảo vệ môi trường đối với khí thải",
+    "agency": "Bộ Tài chính",
+    "category": "Quản lý thuế, phí, lệ phí và thu khác của ngân sách nhà nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-ca45-755d-a6d4-63b33d218a43"
+  },
+  {
+    "stt": 202,
+    "code": "1.013061.01",
+    "title": "Cấp giấy phép thi công công trình trên đường bộ đang khai thác",
+    "agency": "Bộ Xây dựng",
+    "category": "Đường bộ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-88c8-7734-ad0e-b5e2bc20de96"
+  },
+  {
+    "stt": 203,
+    "code": "1.013128.01",
+    "title": "Thủ tục thẩm định và phê duyệt kế hoạch ứng phó sự cố tràn dầu của các cửa hàng bán lẻ xăng dầu trên đất liền, trên sông, trên biển và các cơ sở, dự án trên địa bàn xã không thuộc đối tượng kinh doanh, vận chuyển xăng dầu có nguy cơ xảy ra sự cố tràn dầu mức độ nhỏ (dung tích chứa dưới 50 m3)",
+    "agency": "Bộ Quốc phòng",
+    "category": "Ứng phó sự cố tràn dầu BQP",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-8916-7028-b981-22667f88b45e"
+  },
+  {
+    "stt": 204,
+    "code": "1.013225.01",
+    "title": "Cấp giấy phép xây dựng mới đối với công trình cấp III, cấp IV (Công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9088-744d-aa0a-e846b6dce3d5"
+  },
+  {
+    "stt": 205,
+    "code": "1.013226.01",
+    "title": "Cấp điều chỉnh giấy phép xây dựng đối với công trình cấp III, cấp IV (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9097-7135-94e7-f539d8b0cc19"
+  },
+  {
+    "stt": 206,
+    "code": "1.013227.01",
+    "title": "Gia hạn giấy phép xây dựng đối với công trình cấp III, cấp IV (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Sửa chữa, cải tạo/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9097-700f-899f-6dfc532f0e6b"
+  },
+  {
+    "stt": 207,
+    "code": "1.013228.01",
+    "title": "Cấp lại giấy phép xây dựng đối với công trình cấp III, cấp IV (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Sửa chữa, cải tạo/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-908a-775a-833e-26b204dfda4f"
+  },
+  {
+    "stt": 208,
+    "code": "1.013229.01",
+    "title": "Cấp giấy phép xây dựng sửa chữa, cải tạo đối với công trình cấp III, cấp IV (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-909c-759d-9dc9-416500074f0f"
+  },
+  {
+    "stt": 209,
+    "code": "1.013232.01",
+    "title": "Cấp giấy phép di dời đối với công trình cấp III, cấp IV (Công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-908d-726f-a05f-7026ac241c2d"
+  },
+  {
+    "stt": 210,
+    "code": "1.013239.01",
+    "title": "Thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh",
+    "agency": "Bộ Xây dựng",
+    "category": "Hoạt động xây dựng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-90c2-742a-9dfb-c6d2bdd9aac8"
+  },
+  {
+    "stt": 211,
+    "code": "1.013274.01",
+    "title": "Cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác",
+    "agency": "Bộ Xây dựng",
+    "category": "Đường bộ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-90a2-7673-a2f5-9ba3da842499"
+  },
+  {
+    "stt": 212,
+    "code": "1.013314.02",
+    "title": "Xác nhận về điều kiện diện tích bình quân nhà ở để đăng ký thường trú vào chỗ ở do thuê, mượn, ở nhờ; nhà ở, đất ở không có tranh chấp quyền sở hữu nhà ở, quyền sử dụng đất ở, không thuộc địa điểm không được đăng ký thường trú mới",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý cư trú",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-9660-707e-97b1-ef8876f54d3b"
+  },
+  {
+    "stt": 213,
+    "code": "1.013694.01",
+    "title": "Chấp thuận thiết kế nút giao đấu nối đường nhánh vào đường chính đang khai thác",
+    "agency": "UBND tỉnh Quảng Ngãi",
+    "category": "Đường bộ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019da5f9-fc1e-728a-8537-0952fd400918"
+  },
+  {
+    "stt": 214,
+    "code": "1.013695.01",
+    "title": "Cấp phép thi công nút giao đấu nối đường nhánh vào đường chính đang khai thác",
+    "agency": "UBND tỉnh Quảng Ngãi",
+    "category": "Đường bộ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019da5ea-b694-709e-8d79-1e65fa172f4b"
+  },
+  {
+    "stt": 215,
+    "code": "1.013702.01",
+    "title": "Công nhận ban vận động thành lập hội",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5c-7417-b2be-9deaf8580018"
+  },
+  {
+    "stt": 216,
+    "code": "1.013703.01",
+    "title": "Thành lập hội",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5e-74c5-be8d-c902d128672d"
+  },
+  {
+    "stt": 217,
+    "code": "1.013704.02",
+    "title": "Báo cáo tổ chức đại hội thành lập, đại hội nhiệm kỳ, đại hội bất thường của hội",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5d-738e-974f-94b0474a1be5"
+  },
+  {
+    "stt": 218,
+    "code": "1.013706.01",
+    "title": "Thông báo kết quả đại hội và phê duyệt đổi tên hội, phê duyệt điều lệ hội",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5d-74d9-8418-3390d177fc5c"
+  },
+  {
+    "stt": 219,
+    "code": "1.013707.02",
+    "title": "Chia, tách; sáp nhập; hợp nhất hội",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5d-701d-a936-e90dd356c586"
+  },
+  {
+    "stt": 220,
+    "code": "1.013708.01",
+    "title": "Hội tự giải thể",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5d-738e-974f-9b1720c9150e"
+  },
+  {
+    "stt": 221,
+    "code": "1.013709.01",
+    "title": "Cho phép hội hoạt động trở lại sau khi bị đình chỉ có thời hạn",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b5c-7417-b2be-99660746eb49"
+  },
+  {
+    "stt": 222,
+    "code": "1.013710.01",
+    "title": "Hỗ trợ chi phí y tế và thu nhập thực tế bị mất hoặc giảm sút cho người đang trực tiếp tham gia hoạt động chữ thập đỏ bị tai nạn dẫn đến thiệt hại về sức khỏe",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b60-72fd-b869-7159a1fa5ff5"
+  },
+  {
+    "stt": 223,
+    "code": "1.013734.01",
+    "title": "Đăng ký hợp đồng lao động trực tiếp giao kết .",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý lao động ngoài nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1b93-7684-9fd3-a088c69450aa"
+  },
+  {
+    "stt": 224,
+    "code": "1.013744.01",
+    "title": "Giải quyết chế độ đối với quân nhân, cán bộ đi chiến trường B,C,K trong thời kỳ chống Mỹ cứu nước không có thân nhân phải trực tiếp nuôi dưỡng và quân nhân, cán bộ được đảng cử ở lại miền nam hoạt động sau hiệp định Giơnevơ năm 1954 đối với cán bộ dân, chính, đảng thuộc diện Trung ương quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-1bb7-748a-b5ba-e5aebd37adb2"
+  },
+  {
+    "stt": 225,
+    "code": "1.013749.01",
+    "title": "Giải quyết chế độ đối với quân nhân, cán bộ đi chiến trường B,C,K trong thời kỳ chống mỹ cứu nước không có thân nhân phải trực tiếp nuôi dưỡng và quân nhân, cán bộ được đảng cử ở lại miền nam hoạt động sau hiệp định Giơnevơ năm 1954 đối với cán bộ dân, chính, đảng",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-2326-715c-98b6-d796aea0a14d"
+  },
+  {
+    "stt": 226,
+    "code": "1.013750.01",
+    "title": "Thăm viếng mộ liệt sĩ.",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-2324-7555-8e56-024dcdb30038"
+  },
+  {
+    "stt": 227,
+    "code": "1.013791.01",
+    "title": "Thủ tục tiếp nhận hồ sơ đăng ký lễ hội quy mô cấp xã",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Văn hóa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-ec2b-7125-824c-c4bea27bd2c8"
+  },
+  {
+    "stt": 228,
+    "code": "1.013792.01",
+    "title": "Thủ tục cấp giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Phát thanh, truyền hình và thông tin điện tử",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-ec30-74cf-b2d7-89358371679b"
+  },
+  {
+    "stt": 229,
+    "code": "1.013793.01",
+    "title": "Thủ tục sửa đổi, bổ sung giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Phát thanh, truyền hình và thông tin điện tử",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-ec2c-7409-b1a9-5c4dc70b847a"
+  },
+  {
+    "stt": 230,
+    "code": "1.013794.01",
+    "title": "Thủ tục gia hạn giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Phát thanh, truyền hình và thông tin điện tử",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-ec2d-7265-a40a-ad05039b075e"
+  },
+  {
+    "stt": 231,
+    "code": "1.013796.01",
+    "title": "THỦ TỤC ĐỀ NGHỊ TỔ CHỨC ĐẠI HỘI CỦA TỔ CHỨC TÔN GIÁO, TỔ CHỨC TÔN GIÁO TRỰC THUỘC, TỔ CHỨC ĐƯỢC CẤP CHỨNG NHẬN ĐĂNG KÝ HOẠT ĐỘNG TÔN GIÁO CÓ ĐỊA BÀN HOẠT ĐỘNG Ở MỘT XÃ",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-621f-712b-8aff-761c53252df0"
+  },
+  {
+    "stt": 232,
+    "code": "1.013797.01",
+    "title": "THỦ TỤC ĐỀ NGHỊ TỔ CHỨC CUỘC LỄ NGOÀI CƠ SỞ TÔN GIÁO, ĐỊA ĐIỂM HỢP PHÁP ĐÃ ĐĂNG KÝ CÓ QUY MÔ TỔ CHỨC Ở MỘT XÃ",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-6244-7287-9a22-2ea431452b97"
+  },
+  {
+    "stt": 233,
+    "code": "1.013798.01",
+    "title": "THỦ TỤC ĐỀ NGHỊ GIẢNG ĐẠO NGOÀI ĐỊA BÀN PHỤ TRÁCH, CƠ SỞ TÔN GIÁO, ĐỊA ĐIỂM HỢP PHÁP ĐÃ ĐĂNG KÝ CÓ QUY MÔ TỔ CHỨC TRONG MỘT XÃ",
+    "agency": "Bộ Dân tộc và Tôn giáo",
+    "category": "Tín ngưỡng, tôn giáo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-622d-76c9-8fd7-a6346328fdad"
+  },
+  {
+    "stt": 234,
+    "code": "1.013831.01",
+    "title": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp chuyển đổi quyền sử dụng đất nông nghiệp mà không theo phương án dồn điền, đổi thửa; chuyển nhượng, thừa kế, tặng cho quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; cho thuê, cho thuê lại quyền sử dụng đất trong dự án xây dựng kinh doanh kết cấu hạ tầng; bán hoặc tặng cho hoặc để thừa kế hoặc góp vốn bằng tài sản gắn liền với đất thuê của Nhà nước theo hình thức thuê đất trả tiền hàng năm",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-7ece-728d-9b60-6563e0a7a94e"
+  },
+  {
+    "stt": 235,
+    "code": "1.013833.01",
+    "title": "Đăng ký biến động đối với trường hợp đổi tên hoặc thay đổi thông tin về người sử dụng đất, chủ sở hữu tài sản gắn liền với đất hoặc thay đổi số hiệu hoặc địa chỉ của thửa đất; thay đổi hạn chế quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc có thay đổi quyền đối với thửa đất liền kề; giảm diện tích thửa đất do sạt lở tự nhiên",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-7ed2-77ba-9ecd-737733a74667"
+  },
+  {
+    "stt": 236,
+    "code": "1.013855.01",
+    "title": "Cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở kinh doanh dịch vụ ăn uống, cơ sở sản xuất thực phẩm thuộc phạm vi quản lý của Bộ Y tế",
+    "agency": "Bộ Y tế",
+    "category": "An toàn thực phẩm",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-2d33-76fe-bd90-4f37b18e4401"
+  },
+  {
+    "stt": 237,
+    "code": "1.013947.01",
+    "title": "Xác nhận tiếp tục sử dụng đất nông nghiệp",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8677-74ff-8111-ee0c889b713f"
+  },
+  {
+    "stt": 238,
+    "code": "1.013949.01",
+    "title": "Giao đất, cho thuê đất, chuyển mục đích sử dụng đất đối với trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất; trường hợp giao đất, cho thuê đất thông qua đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất; giao đất và giao rừng; cho thuê đất và cho thuê rừng, gia hạn sử dụng đất khi hết thời hạn sử dụng đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-867b-703e-a311-18fc1df76fc8"
+  },
+  {
+    "stt": 239,
+    "code": "1.013950.01",
+    "title": "Chuyển hình thức giao đất, cho thuê đất.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8678-7030-8757-70c3e9763bc1"
+  },
+  {
+    "stt": 240,
+    "code": "1.013952.01",
+    "title": "Điều chỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất do thay đổi căn cứ quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; điều chỉnh thời hạn sử dụng đất của dự án đầu tư.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8672-74d6-a162-9d0368d68fb5"
+  },
+  {
+    "stt": 241,
+    "code": "1.013953.01",
+    "title": "Điều chỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất do sai sót về ranh giới, vị trí, diện tích, mục đích sử dụng giữa bản đồ quy hoạch, bản đồ địa chính, quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất và số liệu bàn giao đất trên thực địa",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8676-77f3-ba25-0d0f1b588227"
+  },
+  {
+    "stt": 242,
+    "code": "1.013962.01",
+    "title": "Giao đất ở có thu tiền sử dụng đất không thông qua đấu giá, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất đối với cá nhân là cán bộ, công chức, viên chức, sĩ quan tại ngũ, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân và viên chức quốc phòng, sĩ quan, hạ sĩ quan, công nhân công an, người làm công tác cơ yếu và người làm công tác khác trong tổ chức cơ yếu hưởng lương từ ngân sách nhà nước mà chưa được giao đất ở, nhà ở; giáo viên, nhân viên y tế đang công tác tại các xã biên giới, hải đảo thuộc vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn nhưng chưa có đất ở, nhà ở tại nơi công tác hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở; cá nhân thường trú tại xã mà không có đất ở và chưa được Nhà nước giao đất ở hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8675-7789-bf5f-782e3f81d418"
+  },
+  {
+    "stt": 243,
+    "code": "1.013965.01",
+    "title": "Sử dụng đất kết hợp đa mục đích, gia hạn phương án sử dụng đất kết hợp đa mục đích.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-866f-73bf-bcda-6e34ff8bda48"
+  },
+  {
+    "stt": 244,
+    "code": "1.013967.01",
+    "title": "Giải quyết tranh chấp đất đai thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8671-7318-8ef7-15304f36d400"
+  },
+  {
+    "stt": 245,
+    "code": "1.013977.01",
+    "title": "Đăng ký biến động thay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do chia, tách, hợp nhất, sáp nhập tổ chức hoặc chuyển đổi mô hình tổ chức, chuyển đổi loại hình doanh nghiệp theo quy định của pháp luật về doanh nghiệp; điều chỉnh quy hoạch xây dựng chi tiết; cấp Giấy chứng nhận cho từng thửa đất theo quy hoạch xây dựng chi tiết cho chủ đầu tư dự án có nhu cầu",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8671-748e-8363-fcba5996a7f6"
+  },
+  {
+    "stt": 246,
+    "code": "1.013978.01",
+    "title": "Đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu đối với hộ gia đình, cá nhân, cộng đồng dân cư, người gốc Việt Nam định cư ở nước ngoài",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8678-770b-8917-1872078767cd"
+  },
+  {
+    "stt": 247,
+    "code": "1.013979.01",
+    "title": "Tặng cho quyền sử dụng đất cho Nhà nước hoặc cộng đồng dân cư hoặc mở rộng đường giao thông đối với trường hợp thửa đất chưa được cấp Giấy chứng nhận",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8673-706e-96e4-fd2b840004ba"
+  },
+  {
+    "stt": 248,
+    "code": "1.013980.01",
+    "title": "Đăng ký biến động đối với trường hợp thay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo thỏa thuận của các thành viên hộ gia đình hoặc của vợ và chồng; quyền sử dụng đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm, quyền sở hữu công trình ngầm; bán tài sản, điều chuyển, chuyển nhượng quyền sử dụng đất là tài sản công theo quy định của pháp luật về quản lý, sử dụng tài sản công; nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo kết quả giải quyết tranh chấp, khiếu nại, tố cáo về đất đai hoặc bản án, quyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành; quyết định hoặc phán quyết của Trọng tài thương mại Việt Nam về giải quyết tranh chấp giữa các bên phát sinh từ hoạt động thương mại liên quan đến đất đai; nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do xử lý tài sản thế chấp là quyền sử dụng đất, tài sản gắn liền với đất đã được đăng ký, bao gồm cả xử lý khoản nợ có nguồn gốc từ khoản nợ xấu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8678-7030-8757-6ff69db130e3"
+  },
+  {
+    "stt": 249,
+    "code": "1.013988.01",
+    "title": "Xóa ghi nợ tiền sử dụng đất, lệ phí trước bạ trên Giấy chứng nhận đã cấp",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8678-770b-8917-1e30978ab3ca"
+  },
+  {
+    "stt": 250,
+    "code": "1.013992.01",
+    "title": "Đăng ký biến động chuyển mục đích sử dụng đất không phải xin phép cơ quan nhà nước có thẩm quyền",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8676-77f3-ba25-0b6137011577"
+  },
+  {
+    "stt": 251,
+    "code": "1.013993.01",
+    "title": "Đăng ký, cấp Giấy chứng nhận đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không đúng mục đích đã được Nhà nước công nhận quyền sử dụng đất trước ngày 01 tháng 7 năm 2014",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8671-748e-8363-fa15acac598c"
+  },
+  {
+    "stt": 252,
+    "code": "1.013994.01",
+    "title": "Đăng ký, cấp Giấy chứng nhận đối với trường hợp chuyển nhượng dự án đầu tư có sử dụng đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-86a0-76b4-842a-bd23b5621a6a"
+  },
+  {
+    "stt": 253,
+    "code": "1.013995.01",
+    "title": "Đăng ký tài sản gắn liền với thửa đất đã được cấp Giấy chứng nhận hoặc đăng ký thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, gia hạn thời hạn sở hữu nhà ở của tổ chức nước ngoài, cá nhân nước ngoài theo quy định của pháp luật về nhà ở nội dung đã đăng ký",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-868b-77ba-8cfe-b3af7e63b81a"
+  },
+  {
+    "stt": 254,
+    "code": "1.013997.01",
+    "title": "Hỗ trợ cơ sở sản xuất bị thiệt hại do dịch bệnh động vật (cơ sở sản xuất không thuộc lực lượng vũ trang nhân dân)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thú y",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8686-732b-b2d5-e6a422f1b242"
+  },
+  {
+    "stt": 255,
+    "code": "1.014027.01",
+    "title": "Thực hiện, điều chỉnh, thôi hưởng trợ cấp hưu trí xã hội",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-2d80-74d8-8515-90f6f61822f0"
+  },
+  {
+    "stt": 256,
+    "code": "1.014028.01",
+    "title": "Hỗ trợ chi phí mai táng đối với đối tượng hưởng trợ cấp hưu trí xã hội",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-3508-7268-b54b-6ce79a8cbf0e"
+  },
+  {
+    "stt": 257,
+    "code": "1.014034.01",
+    "title": "Đăng ký cập nhật, bổ sung thông tin trong hồ sơ đăng ký hộ kinh doanh, hiệu đính thông tin đăng ký hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-ca52-74fe-8cf2-1c2ab7fbce3d"
+  },
+  {
+    "stt": 258,
+    "code": "1.014035.01",
+    "title": "Dừng thực hiện thủ tục đăng ký hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-ca6b-7492-af2b-d3147fc084c4"
+  },
+  {
+    "stt": 259,
+    "code": "1.014111.01",
+    "title": "Thi tuyển công chức",
+    "agency": "Bộ Nội vụ",
+    "category": "Công chức, viên chức",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d90b5-0f50-773c-88d5-07d6ef77b613"
+  },
+  {
+    "stt": 260,
+    "code": "1.014113.01",
+    "title": "Xét tuyển công chức",
+    "agency": "Bộ Nội vụ",
+    "category": "Công chức, viên chức",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-2326-7367-83e6-f242eef7cbc5"
+  },
+  {
+    "stt": 261,
+    "code": "1.014116.01",
+    "title": "Tiếp nhận vào công chức không giữ chức vụ lãnh đạo, quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Công chức, viên chức",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-233e-778c-8060-f87bbb5726d0"
+  },
+  {
+    "stt": 262,
+    "code": "1.014155.01",
+    "title": "Thẩm định nhiệm vụ quy hoạch, nhiệm vụ điều chỉnh quy hoạch đô thị và nông thôn do nhà đầu tư đã được lựa chọn để thực hiện dự án đầu tư tổ chức lập",
+    "agency": "Bộ Xây dựng",
+    "category": "Quy hoạch đô thị và nông thôn",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-985b-7039-916e-3d9fd71710d8"
+  },
+  {
+    "stt": 263,
+    "code": "1.014156.01",
+    "title": "Phê duyệt nhiệm vụ quy hoạch, nhiệm vụ điều chỉnh quy hoạch đô thị và nông thôn do nhà đầu tư đã được lựa chọn để thực hiện dự án đầu tư tổ chức lập",
+    "agency": "Bộ Xây dựng",
+    "category": "Quy hoạch đô thị và nông thôn",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9859-729a-b092-1bf8860317c1"
+  },
+  {
+    "stt": 264,
+    "code": "1.014157.01",
+    "title": "Thẩm định quy hoạch, điều chỉnh quy hoạch đô thị và nông thôn do nhà đầu tư đã được lựa chọn để thực hiện dự án đầu tư tổ chức lập",
+    "agency": "Bộ Xây dựng",
+    "category": "Quy hoạch đô thị và nông thôn",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-985a-706e-a845-8542c8f7c62b"
+  },
+  {
+    "stt": 265,
+    "code": "1.014158.01",
+    "title": "Phê duyệt quy hoạch, điều chỉnh quy hoạch đô thị và nông thôn do nhà đầu tư đã được lựa chọn để thực hiện dự án đầu tư tổ chức lập",
+    "agency": "Bộ Xây dựng",
+    "category": "Quy hoạch đô thị và nông thôn",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9857-74ec-8c26-f832b4fce86b"
+  },
+  {
+    "stt": 266,
+    "code": "1.014159.01",
+    "title": "Cung cấp thông tin quy hoạch đô thị và nông thôn",
+    "agency": "Bộ Xây dựng",
+    "category": "Quy hoạch đô thị và nông thôn",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9852-71ed-96f2-8110da8fd4f0"
+  },
+  {
+    "stt": 267,
+    "code": "1.014258.01",
+    "title": "Xác nhận đăng ký thu hồi khoáng sản (cấp Xã)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Địa chất và khoáng sản",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8e5a-7180-9b55-92c56132c8e6"
+  },
+  {
+    "stt": 268,
+    "code": "1.014259.01",
+    "title": "Quyết toán tiền cấp quyền khai thác khoáng sản (cấp Xã)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Địa chất và khoáng sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8e5e-714e-b4e2-87150f285b80"
+  },
+  {
+    "stt": 269,
+    "code": "1.014275.03",
+    "title": "Tổ chức kinh tế nhận chuyển nhượng, thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất để thực hiện dự án đầu tư.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-8e9b-7016-8e52-bcc0f5d0bc05"
+  },
+  {
+    "stt": 270,
+    "code": "1.014284.01",
+    "title": "Giao đất, cho thuê đất, giao khu vực biển để thực hiện hoạt động lấn biển.",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9621-740d-984e-e0a036f298d5"
+  },
+  {
+    "stt": 271,
+    "code": "1.014310.01",
+    "title": "Thủ tục hưởng trợ cấp sinh hoạt hàng tháng đối với Nghệ nhân nhân dân, Nghệ nhân ưu tú",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Di sản văn hóa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-f3cf-715c-b31f-4e822e37493b"
+  },
+  {
+    "stt": 272,
+    "code": "1.014312.01",
+    "title": "Thủ tục thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế đối với Nghệ nhân nhân dân, Nghệ nhân ưu tú",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Di sản văn hóa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-f3cc-7396-a6b0-2ec5b245e727"
+  },
+  {
+    "stt": 273,
+    "code": "1.014318.02",
+    "title": "Thủ tục tuyển chọn tổng công trình sư dự án",
+    "agency": "Bộ Nội vụ",
+    "category": "Lao động",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-2afb-760c-ad34-6012e854bce3"
+  },
+  {
+    "stt": 274,
+    "code": "1.014335.01",
+    "title": "Đề nghị miễn, giảm học phí trong cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học tư thục và cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học thuộc tổ chức kinh tế, doanh nghiệp nhà nước",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c7e3-746e-8437-305980ee5536"
+  },
+  {
+    "stt": 275,
+    "code": "1.014336.01",
+    "title": "Đề nghị hỗ trợ chi phí học tập trong cơ sở giáo dục mầm non công lập, cơ sở giáo dục phổ thông công lập, cơ sở giáo dục công lập thực hiện chương trình giáo dục phổ thông",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c7e3-744b-8bd9-0747eeabb2db"
+  },
+  {
+    "stt": 276,
+    "code": "1.014337.01",
+    "title": "Đề nghị hỗ trợ chi phí học tập trong cơ sở giáo dục mầm non dân lập, tư thục; trường tiểu học tư thục, trường trung học cơ sở tư thục, cơ sở giáo dục thường xuyên tư thục; cơ sở giáo dục mầm non, trường tiểu học, trung học cơ sở trong các trường đại học, cao đẳng, viện nghiên cứu",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-c7e7-71f7-81cf-28778a076923"
+  },
+  {
+    "stt": 277,
+    "code": "1.014352.01",
+    "title": "Thủ tục tuyển chọn chuyên gia",
+    "agency": "Bộ Nội vụ",
+    "category": "Lao động",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-2b1c-77cf-a8b2-ffd3765a24c3"
+  },
+  {
+    "stt": 278,
+    "code": "1.014359.01",
+    "title": "Giải quyết chế độ mai táng phí đối với dân công hỏa tuyến tham gia kháng chiến chống Pháp, chống Mỹ, chiến tranh bảo vệ Tổ quốc và làm nhiệm vụ quốc tế",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-2b25-777d-a825-2823012ce7ec"
+  },
+  {
+    "stt": 279,
+    "code": "1.014632.01",
+    "title": "Đăng ký mua, thuê mua, thuê nhà ở xã hội, vay vốn để hộ gia đình, cá nhân tự xây dựng hoặc cải tạo, sửa chữa nhà ở",
+    "agency": "Bộ Xây dựng",
+    "category": "Nhà ở và công sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-985c-732b-822b-460f2199467e"
+  },
+  {
+    "stt": 280,
+    "code": "1.014776.01",
+    "title": "Cấp, cấp lại mã số vùng trồng, mã số cơ sở đóng gói",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Trồng trọt và Bảo vệ thực vật",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9675-75dd-9810-3a861ae77af9"
+  },
+  {
+    "stt": 281,
+    "code": "1.014779.01",
+    "title": "Gia hạn Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thú y",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9677-73f8-91dc-e211281d5640"
+  },
+  {
+    "stt": 282,
+    "code": "1.014801.01",
+    "title": "Cấp, cấp lại Giấy xác nhận nuôi trồng thủy sản lồng bè, đối tượng thủy sản nuôi chủ lực (hoạt động trên nội địa thuộc phạm vi quản lý và cơ sở nuôi trồng thủy sản lồng bè thuộc thẩm quyền giao khu vực biển của Chủ tịch Ủy ban nhân dân cấp xã)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy sản",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9dfb-735b-9cfd-5c6f7a67eadb"
+  },
+  {
+    "stt": 283,
+    "code": "1.014832.01",
+    "title": "Giao rừng, cho thuê rừng khi đã được giao đất, cho thuê đất có rừng hoặc đã được công nhận quyền sử dụng đất có rừng thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9df2-77b1-92ff-2953067c0ef8"
+  },
+  {
+    "stt": 284,
+    "code": "1.014848.01",
+    "title": "Phê duyệt phương án bảo vệ công trình thủy lợi do Chủ tịch Ủy ban nhân dân cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e1f-71dc-9209-4e9a2b8425ce"
+  },
+  {
+    "stt": 285,
+    "code": "1.014849.01",
+    "title": "Cấp giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi: Xây dựng công trình mới; Lập bến, bãi tập kết nguyên liệu, nhiên liệu, vật tư, phương tiện; Xây dựng công trình ngầm do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e1f-759a-a302-7388633cac66"
+  },
+  {
+    "stt": 286,
+    "code": "1.014850.01",
+    "title": "Cấp giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi đối với hoạt động du lịch, thể thao, nghiên cứu khoa học, kinh doanh, dịch vụ do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e23-7298-a217-9644874e623c"
+  },
+  {
+    "stt": 287,
+    "code": "1.014851.01",
+    "title": "Cấp gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi: Xây dựng công trình mới; Lập bến, bãi tập kết nguyên liệu, nhiên liệu, vật liệu, vật tư,",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e29-7049-92d6-5dfd31a59b14"
+  },
+  {
+    "stt": 288,
+    "code": "1.014852.01",
+    "title": "Cấp giấy phép nổ mìn và các hoạt động gây nổ khác trong phạm vi bảo vệ công trình thủy lợi do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e22-7643-bef7-f13dcd5b838e"
+  },
+  {
+    "stt": 289,
+    "code": "1.014853.01",
+    "title": "Cấp gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi: Nuôi trồng thủy sản; Nổ mìn và các hoạt động gây nổ khác do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e25-7618-bcc6-6710782fe31f"
+  },
+  {
+    "stt": 290,
+    "code": "1.014859.01",
+    "title": "Cấp giấy phép hoạt động của phương tiện thủy nội địa, phương tiện cơ giới, trừ xe mô tô, xe gắn máy, phương tiện thủy nội địa thô sơ trong phạm vi bảo vệ công trình thủy lợi do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e29-7379-a015-80698a0e0ec6"
+  },
+  {
+    "stt": 291,
+    "code": "1.014860.01",
+    "title": "Cấp giấy phép cho các hoạt động trồng cây lâu năm trong phạm vi bảo vệ công trình thủy lợi do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e2a-746d-802c-0c7f1b2718c0"
+  },
+  {
+    "stt": 292,
+    "code": "1.014862.01",
+    "title": "Cấp giấy phép nuôi trồng thủy sản trong phạm vi bảo vệ công trình thủy lợi do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e43-71a8-9a48-4c417ce471b6"
+  },
+  {
+    "stt": 293,
+    "code": "1.014863.01",
+    "title": "Cấp gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi đối với hoạt động: du lịch, thể thao, nghiên cứu khoa học, kinh doanh, dịch vụ do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e2d-7174-96b1-53a4fe84c876"
+  },
+  {
+    "stt": 294,
+    "code": "1.014864.01",
+    "title": "Cấp gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi: Trồng cây lâu năm; Hoạt động của phương tiện thủy nội địa, phương tiện cơ giới, trừ xe mô tô, xe gắn máy, phương tiện thủy nội địa thô sơ do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-9e3c-7678-9bf5-28519e9ad440"
+  },
+  {
+    "stt": 295,
+    "code": "1.014942.02",
+    "title": "THỦ TỤC CẤP GIẤY PHÉP THÀNH LẬP VÀ CÔNG NHẬN ĐIỀU LỆ QUỸ (Cấp xã)",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d9011-449a-721b-a7b9-8d28d0929df2"
+  },
+  {
+    "stt": 296,
+    "code": "1.014943.01",
+    "title": "THỦ TỤC CÔNG NHẬN QUỸ ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG VÀ CÔNG NHẬN HỘI ĐỒNG QUẢN LÝ QUỸ; CÔNG NHẬN HỘI ĐỒNG QUẢN LÝ QUỸ KHI THAY ĐỔI, BỔ SUNG THÀNH VIÊN HOẶC HẾT NHIỆM KỲ (Cấp xã)",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d9098-17f7-74b8-a942-7892a634e0b5"
+  },
+  {
+    "stt": 297,
+    "code": "1.014944.01",
+    "title": "THỦ TỤC CÔNG NHẬN ĐIỀU LỆ (SỬA ĐỔI, BỔ SUNG) QUỸ; ĐỔI TÊN QUỸ (Cấp xã)",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d9048-c72e-740c-8571-c3551cd436a2"
+  },
+  {
+    "stt": 298,
+    "code": "1.014945.02",
+    "title": "THỦ TỤC CHO PHÉP QUỸ HOẠT ĐỘNG TRỞ LẠI SAU KHI BỊ ĐÌNH CHỈ CÓ THỜI HẠN HOẠT ĐỘNG (Cấp xã)",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d902a-3057-71a8-b6fb-f4ad467b5ab7"
+  },
+  {
+    "stt": 299,
+    "code": "1.014946.01",
+    "title": "THỦ TỤC HỢP NHẤT, SÁP NHẬP, CHIA, TÁCH QUỸ (Cấp xã)",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d90b6-cf18-72c9-bb65-12e2e42a691a"
+  },
+  {
+    "stt": 300,
+    "code": "1.014947.01",
+    "title": "THỦ TỤC QUỸ TỰ GIẢI THỂ (Cấp xã)",
+    "agency": "Bộ Nội vụ",
+    "category": "Quản lý nhà nước về hội, quỹ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d90dd-f017-732b-a670-c6d743b193fd"
+  },
+  {
+    "stt": 301,
+    "code": "1.014996.01",
+    "title": "Chuyển đổi nhà trẻ, trường mẫu giáo, trường mầm non tư thục do nhà đầu tư trong nước và nhà đầu tư nước ngoài đề nghị thành lập sang nhà trẻ, trường mẫu giáo, trường mầm non tư thục hoạt động không vì lợi nhuận",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019daf4b-78ed-72f0-a3df-fa5a240d8a0e"
+  },
+  {
+    "stt": 302,
+    "code": "1.014997.01",
+    "title": "Xét, cấp học bổng chính sách đối với học viên cơ sở giáo dục nghề nghiệp tư thục dành cho thương binh, người khuyết tật",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019daf3d-8e57-720a-9328-1331718deef8"
+  },
+  {
+    "stt": 303,
+    "code": "1.115148.01",
+    "title": "Thủ tục tính hoặc tính lại tiền sử dụng đất theo quy định tại các điểm a, b, c và d khoản 2 Điều 12 Nghị định số 50/2026/NĐ-CP ngày 31/01/2026 của Chính phủ",
+    "agency": "Bộ Tài chính",
+    "category": "Tài chính đất đai",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e8732-a3da-753b-85f5-0590fe1e27c7"
+  },
+  {
+    "stt": 304,
+    "code": "1.115377.01",
+    "title": "Thông báo phát triển nguồn điện mặt trời mái nhà tự sản xuất, tự tiêu thụ đấu nối với hệ thống điện quốc gia tại cấp điện áp hạ áp",
+    "agency": "Bộ Công thương",
+    "category": "Điện lực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019f1695-894f-72b8-80a8-2fee368722be"
+  },
+  {
+    "stt": 305,
+    "code": "2.000206.01",
+    "title": "Thẩm định, phê duyệt phương án ứng phó thiên tai cho công trình vùng hạ du đập thủy điện thuộc thẩm quyền phê duyệt của Ủy ban nhân dân Cấp xã",
+    "agency": "Bộ Công thương",
+    "category": "An toàn đập, hồ chứa thuỷ điện",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-235d-7442-9ce7-64d33f904546"
+  },
+  {
+    "stt": 306,
+    "code": "2.000282.01",
+    "title": "Tiếp nhận đối tượng cần bảo vệ khẩn cấp vào cơ sở trợ giúp xã hội",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-44af-74e9-bab9-2f56edd7097c"
+  },
+  {
+    "stt": 307,
+    "code": "2.000286.01",
+    "title": "Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-44ae-736f-a3c1-fc73741af598"
+  },
+  {
+    "stt": 308,
+    "code": "2.000424.01",
+    "title": "Thủ tục thực hiện hỗ trợ khi hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải",
+    "agency": "Bộ Tư pháp",
+    "category": "Hòa giải ở cơ sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-862f-7378-807f-97f4f7531da7"
+  },
+  {
+    "stt": 309,
+    "code": "2.000477.01",
+    "title": "Dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội",
+    "agency": "Bộ Y tế",
+    "category": "Bảo trợ xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-44d2-76de-816a-a3bf8b06a440"
+  },
+  {
+    "stt": 310,
+    "code": "2.000497.01",
+    "title": "Thủ tục đăng ký lại khai tử có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8651-7749-bf4c-8444ae336e6c"
+  },
+  {
+    "stt": 311,
+    "code": "2.000513.01",
+    "title": "Thủ tục đăng ký lại kết hôn có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-866c-706d-945a-a09ce8c74047"
+  },
+  {
+    "stt": 312,
+    "code": "2.000522.01",
+    "title": "Thủ tục đăng ký lại khai sinh có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-867a-70eb-bc54-effd523ebc99"
+  },
+  {
+    "stt": 313,
+    "code": "2.000528.01",
+    "title": "Thủ tục đăng ký khai sinh có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8662-763f-927f-dc039ede198c"
+  },
+  {
+    "stt": 314,
+    "code": "2.000547.01",
+    "title": "Thủ tục ghi vào Sổ hộ tịch việc hộ tịch khác của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài (khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; khai tử; thay đổi hộ tịch)",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8661-77ca-9811-6106ea8c43db"
+  },
+  {
+    "stt": 315,
+    "code": "2.000554.01",
+    "title": "Thủ tục ghi vào Sổ hộ tịch việc ly hôn, hủy việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-867a-70eb-bc54-e836b23a4649"
+  },
+  {
+    "stt": 316,
+    "code": "2.000575.01",
+    "title": "Cấp lại Giấy chứng nhận đăng ký hộ kinh doanh, Cấp đổi sang Giấy chứng nhận đăng ký hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-d9d1-7475-8e58-1aa4479901eb"
+  },
+  {
+    "stt": 317,
+    "code": "2.000591.01",
+    "title": "Cấp Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm",
+    "agency": "Bộ Công thương",
+    "category": "An toàn thực phẩm",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-330c-77dd-8058-19a40f5959f5"
+  },
+  {
+    "stt": 318,
+    "code": "2.000635.02",
+    "title": "Cấp bản sao Trích lục hộ tịch, bản sao Giấy khai sinh",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-867c-72db-b6a7-dcbd8c763807"
+  },
+  {
+    "stt": 319,
+    "code": "2,000720",
+    "title": "Đăng ký thay đổi nội dung đăng ký hộ kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-d9ca-768c-a8f4-cc0dff5f41ed"
+  },
+  {
+    "stt": 320,
+    "code": "2.000748.01",
+    "title": "Thủ tục thay đổi, cải chính, bổ sung thông tin hộ tịch, xác định lại dân tộc có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e02-7590-b74b-fb572a57eda2"
+  },
+  {
+    "stt": 321,
+    "code": "2.000756.01",
+    "title": "Thủ tục đăng ký chấm dứt giám hộ có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e04-756b-bf4f-2a70964e4c40"
+  },
+  {
+    "stt": 322,
+    "code": "2.000779.01",
+    "title": "Thủ tục đăng ký nhận cha, mẹ, con có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8dff-7296-94d7-25b5966319d5"
+  },
+  {
+    "stt": 323,
+    "code": "2.000794.03",
+    "title": "Thủ tục công nhận câu lạc bộ thể dục thể thao cơ sở",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Thể dục thể thao",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-fba4-7418-b25f-d4e06bd25809"
+  },
+  {
+    "stt": 324,
+    "code": "2.000806.01",
+    "title": "Thủ tục đăng ký kết hôn có yếu tố nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e13-728a-a0cd-635811d8432e"
+  },
+  {
+    "stt": 325,
+    "code": "2.000815.01",
+    "title": "Chứng thực bản sao từ bản chính giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của Việt Nam; cơ quan, tổ chức có thẩm quyền của nước ngoài; cơ quan, tổ chức có thẩm quyền của Việt Nam liên kết với cơ quan, tổ chức có thẩm quyền của nước ngoài cấp hoặc chứng nhận",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e22-77ef-819f-e49460350904"
+  },
+  {
+    "stt": 326,
+    "code": "2.000884.02",
+    "title": "Chứng thực chữ ký trong các giấy tờ, văn bản (áp dụng cho cả trường hợp chứng thực điểm chỉ và trường hợp người yêu cầu chứng thực không thể ký, không thể điểm chỉ được)",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e2e-7359-b42f-d5dc8d74741b"
+  },
+  {
+    "stt": 327,
+    "code": "2.000908.01",
+    "title": "Thủ tục cấp bản sao từ sổ gốc",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e5d-72f9-8cf2-c71780251483"
+  },
+  {
+    "stt": 328,
+    "code": "2.000913.01",
+    "title": "Chứng thực việc sửa đổi, bổ sung, hủy bỏ giao dịch",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e59-72ab-ae1a-a2985865d253"
+  },
+  {
+    "stt": 329,
+    "code": "2.000927.01",
+    "title": "Sửa lỗi sai sót trong giao dịch",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e51-721b-8e62-45f804b4bba3"
+  },
+  {
+    "stt": 330,
+    "code": "2.000930.01",
+    "title": "Thủ tục thôi làm hòa giải viên (cấp xã)",
+    "agency": "Bộ Tư pháp",
+    "category": "Hòa giải ở cơ sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-8e50-70b5-b69c-ebc36daa6542"
+  },
+  {
+    "stt": 331,
+    "code": "2.000942.02",
+    "title": "Cấp bản sao có chứng thực từ bản chính giao dịch đã được chứng thực",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95d6-778f-889b-e3045003fa5e"
+  },
+  {
+    "stt": 332,
+    "code": "2.000950.01",
+    "title": "Thủ tục công nhận tổ trưởng tổ hòa giải (cấp xã)",
+    "agency": "Bộ Tư pháp",
+    "category": "Hòa giải ở cơ sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95cf-74f7-8f8e-81c925ae839a"
+  },
+  {
+    "stt": 333,
+    "code": "2.000992.03",
+    "title": "Chứng thực chữ ký người dịch mà người dịch là cộng tác viên dịch thuật của Ủy ban nhân dân cấp xã, tổ chức hành nghề công chứng",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95d3-7258-b613-a71dbf432f07"
+  },
+  {
+    "stt": 334,
+    "code": "2.001008.01",
+    "title": "Chứng thực chữ ký người dịch mà người dịch không phải là cộng tác viên dịch thuật của Ủy ban nhân dân cấp xã, tổ chức hành nghề công chứng",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95d4-72d6-be00-ed0e9e5dd66a"
+  },
+  {
+    "stt": 335,
+    "code": "2.001016.01",
+    "title": "Chứng thực văn bản từ chối nhận di sản",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95e6-7578-ba2d-d1b4373cd174"
+  },
+  {
+    "stt": 336,
+    "code": "2.001019.01",
+    "title": "Chứng thực di chúc",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95f0-7610-845f-c097f144bd55"
+  },
+  {
+    "stt": 337,
+    "code": "2.001019.02",
+    "title": "Chứng thực di chúc",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95f0-7610-845f-c097f144bd55"
+  },
+  {
+    "stt": 338,
+    "code": "2.001035.01",
+    "title": "Chứng thực giao dịch liên quan đến tài sản là động sản, quyền sử dụng đất, nhà ở",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-95fa-70ca-93fd-4cab11b87897"
+  },
+  {
+    "stt": 339,
+    "code": "2.001157.01",
+    "title": "Trợ cấp một lần đối với thanh niên xung phong đã hoàn thành nhiệm vụ trong kháng chiến",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-3ae2-716e-b982-946f474d952b"
+  },
+  {
+    "stt": 340,
+    "code": "2.001211.01",
+    "title": "Xóa đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-98a8-76af-b485-17daf28c8fc9"
+  },
+  {
+    "stt": 341,
+    "code": "2.001212.01",
+    "title": "Cấp lại Giấy chứng nhận đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9899-7115-a1a7-0bfbcb1f0e5d"
+  },
+  {
+    "stt": 342,
+    "code": "2.001214.01",
+    "title": "Đăng ký lại phương tiện hoạt động vui chơi, giải trí dưới nước",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-98b3-7466-a42e-6b1743258d04"
+  },
+  {
+    "stt": 343,
+    "code": "2.001215.01",
+    "title": "Đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước lần đầu",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-98ac-77de-bb23-6dbc853ac7d4"
+  },
+  {
+    "stt": 344,
+    "code": "2.001217.01",
+    "title": "Đóng, không cho phép hoạt động tại vùng nước khác không thuộc vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải, được đánh dấu, xác định vị trí bằng phao hoặc cờ hiệu có màu sắc dễ quan sát",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-9896-710f-8d0c-a4f8314241bf"
+  },
+  {
+    "stt": 345,
+    "code": "2.001218.01",
+    "title": "Công bố mở, cho phép hoạt động tại vùng nước khác không thuộc vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải, được đánh dấu, xác định vị trí bằng phao hoặc cờ hiệu có màu sắc dễ quan sát",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-98a8-7009-ad19-2dc97a6d77af"
+  },
+  {
+    "stt": 346,
+    "code": "2.001255.01",
+    "title": "Đăng ký lại việc nuôi con nuôi trong nước",
+    "agency": "Bộ Tư pháp",
+    "category": "Nuôi con nuôi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9614-7528-9c06-e53f6dee7a58"
+  },
+  {
+    "stt": 347,
+    "code": "2.001263.01",
+    "title": "Đăng ký việc nuôi con nuôi trong nước",
+    "agency": "Bộ Tư pháp",
+    "category": "Nuôi con nuôi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9dae-705f-a893-0c4e1f0c32a7"
+  },
+  {
+    "stt": 348,
+    "code": "2.001396.01",
+    "title": "Trợ cấp hàng tháng đối với thanh niên xung phong đã hoàn thành nhiệm vụ trong kháng chiến",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-3adc-7360-b1ba-d5e19e282909"
+  },
+  {
+    "stt": 349,
+    "code": "2.001406.01",
+    "title": "Chứng thực văn bản phân chia di sản mà di sản là động sản, quyền sử dụng đất, nhà ở",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9daf-70da-8f48-223498332346"
+  },
+  {
+    "stt": 350,
+    "code": "2.001406.02",
+    "title": "Chứng thực văn bản phân chia di sản mà di sản là động sản, quyền sử dụng đất, nhà ở",
+    "agency": "Bộ Tư pháp",
+    "category": "Chứng thực",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9daf-70da-8f48-223498332346"
+  },
+  {
+    "stt": 351,
+    "code": "2.001621.01",
+    "title": "Hỗ trợ đầu tư xây dựng phát triển thủy lợi nhỏ, thuỷ lợi nội đồng và tưới tiên tiến, tiết kiệm nước (Đối với nguồn vốn hỗ trợ trực tiếp, ngân sách địa phương và nguồn vốn hợp pháp khác của địa phương phân bổ dự toán cho UBND cấp xã thực hiện)",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-adcb-7279-9877-636094f08fbc"
+  },
+  {
+    "stt": 352,
+    "code": "2.001627.01",
+    "title": "Thẩm định quy trình vận hành đối với công trình thủy lợi lớn và công trình thủy lợi vừa do Chủ tịch UBND cấp tỉnh phân cấp cho Chủ tịch UBND cấp xã phê duyệt",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Thủy lợi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-adcb-7629-a497-8674dcffeb8c"
+  },
+  {
+    "stt": 353,
+    "code": "2.001659.01",
+    "title": "Xóa đăng ký phương tiện",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-a039-75a8-85e4-a19d8132bb5d"
+  },
+  {
+    "stt": 354,
+    "code": "2.001661.01",
+    "title": "Hỗ trợ học văn hóa, học nghề, trợ cấp khó khăn ban đầu cho nạn nhân",
+    "agency": "Bộ Y tế",
+    "category": "Phòng, chống tệ nạn xã hội",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-5454-72fb-ab3d-7430bfdda821"
+  },
+  {
+    "stt": 355,
+    "code": "2.001711.01",
+    "title": "Đăng ký lại phương tiện trong trường hợp phương tiện thay đổi tên, tính năng kỹ thuật",
+    "agency": "Bộ Xây dựng",
+    "category": "Hàng hải và đường thủy nội địa",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-a02c-71ef-8ad3-2800da3a613b"
+  },
+  {
+    "stt": 356,
+    "code": "2.001770.01",
+    "title": "Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành .",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Tài nguyên nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-ae0d-70cb-ad3d-2af2523e8b9e"
+  },
+  {
+    "stt": 357,
+    "code": "2.001827.01",
+    "title": "Cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm nông, lâm, thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Quản lý chất lượng nông lâm sản và thủy sản",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-b57f-73cc-856f-0255333fcb48"
+  },
+  {
+    "stt": 358,
+    "code": "2.001842.01",
+    "title": "Cho phép trường tiểu học hoạt động giáo dục",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục tiểu học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-cfba-774b-96cf-bc2a6fcc9116"
+  },
+  {
+    "stt": 359,
+    "code": "2.001921.01",
+    "title": "Chấp thuận vị trí, quy mô, kích thước, phương án tổ chức thi công biển quảng cáo, biển thông tin cổ động, tuyên truyền chính trị; chấp thuận xây dựng, lắp đặt công trình hạ tầng, công trình hạ tầng kỹ thuật sử dụng chung trong phạm vi bảo vệ kết cấu hạ tầng đường bộ; chấp thuận gia cường công trình đường bộ khi cần thiết để cho phép xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ",
+    "agency": "Bộ Xây dựng",
+    "category": "Đường bộ",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfe-a02c-754e-9e9e-afd5f23aa699"
+  },
+  {
+    "stt": 360,
+    "code": "2.001942.01",
+    "title": "Chuyển trẻ em đang được chăm sóc thay thế tại cơ sở trợ giúp xã hội đến cá nhân, gia đình nhận chăm sóc thay thế",
+    "agency": "Bộ Y tế",
+    "category": "Trẻ em",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-545f-7218-a5f6-b4660489bb5e"
+  },
+  {
+    "stt": 361,
+    "code": "2.001944.01",
+    "title": "Thông báo nhận chăm sóc thay thế cho trẻ em đối với cá nhân, người đại diện gia đình nhận chăm sóc thay thế là người thân thích của trẻ em",
+    "agency": "Bộ Y tế",
+    "category": "Trẻ em",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-5457-7246-b12e-d42023faa8a7"
+  },
+  {
+    "stt": 362,
+    "code": "2.001947.01",
+    "title": "Phê duyệt kế hoạch hỗ trợ, can thiệp đối với trẻ em bị xâm hại hoặc có nguy cơ bị bạo lực, bóc lột, bỏ rơi và trẻ em có hoàn cảnh đặc biệt",
+    "agency": "Bộ Y tế",
+    "category": "Trẻ em",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bff-5467-73ae-a00c-a406a8adee22"
+  },
+  {
+    "stt": 363,
+    "code": "2.001955.01",
+    "title": "Đăng ký nội quy lao động của doanh nghiệp",
+    "agency": "Bộ Nội vụ",
+    "category": "Lao động, tiền lương",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-42a2-76ce-9565-812f8b562c71"
+  },
+  {
+    "stt": 364,
+    "code": "2.001958.01",
+    "title": "Thông báo về việc thành lập doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-d9f1-779d-ad28-da10af3e13e6"
+  },
+  {
+    "stt": 365,
+    "code": "2.001960.01",
+    "title": "Cấp chính sách nội trú cho học sinh, sinh viên tham gia chương trình đào tạo trình độ cao đẳng, trung cấp tại các cơ sở giáo dục nghề nghiệp tư thục hoặc cơ sở giáo dục có vốn đầu tư nước ngoài",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục nghề nghiệp",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-cfd2-77d8-a90b-01265fddb221"
+  },
+  {
+    "stt": 366,
+    "code": "2.002080.01",
+    "title": "Thủ tục thanh toán thù lao cho hòa giải viên",
+    "agency": "Bộ Tư pháp",
+    "category": "Hòa giải ở cơ sở",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9de5-75ef-95ab-c10482f48dc8"
+  },
+  {
+    "stt": 367,
+    "code": "2.002123.01",
+    "title": "Đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo địa điểm kinh doanh; Thông báo lập chi nhánh, văn phòng đại diện ở nước ngoài của hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-e1f5-7431-995a-f6d33945b83a"
+  },
+  {
+    "stt": 368,
+    "code": "2.002165.01",
+    "title": "Giải quyết yêu cầu bồi thường tại cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại (cấp xã)",
+    "agency": "Bộ Tư pháp",
+    "category": "Bồi thường nhà nước",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9e02-77dc-b8bb-e19988c9428f"
+  },
+  {
+    "stt": 369,
+    "code": "2.002189.01",
+    "title": "Thủ tục ghi vào Sổ hộ tịch việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-9dec-73f6-b213-be4bfb4f911b"
+  },
+  {
+    "stt": 370,
+    "code": "2.002226.01",
+    "title": "Thông báo thành lập/thay đổi tổ hợp tác",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác không đăng ký",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-e97b-7644-8f2b-07949526a9a0"
+  },
+  {
+    "stt": 371,
+    "code": "2.002228.01",
+    "title": "Thông báo chấm dứt hoạt động của tổ hợp tác",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác không đăng ký",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-e975-702b-8e64-5692d3b7c41e"
+  },
+  {
+    "stt": 372,
+    "code": "2.002284.01",
+    "title": "Cấp chính sách nội trú cho học sinh, sinh viên tham gia chương trình đào tạo trình độ cao đẳng, trung cấp tại các cơ sở giáo dục nghề nghiệp công lập trực thuộc xã",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục nghề nghiệp",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-cffc-73cb-824d-4d5fad6ec30e"
+  },
+  {
+    "stt": 373,
+    "code": "2.002303.02",
+    "title": "Lập danh sách đối tượng tham gia bảo hiểm y tế do Bộ Lao động – Thương binh và Xã hội quản lý",
+    "agency": "Bộ Nội vụ",
+    "category": "Bảo hiểm xã hội",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-4a4b-71e9-9b0a-4080a71453ca"
+  },
+  {
+    "stt": 374,
+    "code": "2.002307.02",
+    "title": "Giải quyết chế độ mai táng phí đối với cựu chiến binh",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-4a4e-7368-a306-f665291850ca"
+  },
+  {
+    "stt": 375,
+    "code": "2.002308.01",
+    "title": "Giải quyết chế độ mai táng phí đối với thanh niên xung phong thời kỳ chống Pháp",
+    "agency": "Bộ Nội vụ",
+    "category": "Người có công",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-4a52-722d-90e3-4cafef5d497c"
+  },
+  {
+    "stt": 376,
+    "code": "2.002349.01",
+    "title": "Cấp giấy xác nhận công dân Việt Nam thường trú ở khu vực biên giới đủ điều kiện nhận trẻ em của nước láng giềng cư trú ở khu vực biên giới làm con nuôi",
+    "agency": "Bộ Tư pháp",
+    "category": "Nuôi con nuôi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-a586-71fe-8c10-8691b48be9b9"
+  },
+  {
+    "stt": 377,
+    "code": "2.002363.01",
+    "title": "Ghi vào Sổ đăng ký nuôi con nuôi việc nuôi con nuôi đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài",
+    "agency": "Bộ Tư pháp",
+    "category": "Nuôi con nuôi",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-a5b0-7288-8713-cb507168dfa7"
+  },
+  {
+    "stt": 378,
+    "code": "2.002516.01",
+    "title": "Thủ tục xác nhận thông tin hộ tịch",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-a586-71fe-8c10-836e09f0a879"
+  },
+  {
+    "stt": 379,
+    "code": "2.002620.01",
+    "title": "Thông báo về việc thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên",
+    "agency": "Bộ Công thương",
+    "category": "Bảo vệ quyền lợi người tiêu dùng",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-4a88-761c-a413-252b766cc878"
+  },
+  {
+    "stt": 380,
+    "code": "2.002635.01",
+    "title": "Đề nghị thay đổi tên tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã do xâm phạm quyền sở hữu công nghiệp",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f17b-76ae-ae8e-b510f12aab69"
+  },
+  {
+    "stt": 381,
+    "code": "2.002636.01",
+    "title": "Đề nghị thu hồi Giấy chứng nhận đăng ký tổ hợp tác, Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký chi nhánh, văn phòng đại diện đối với trường hợp nội dung kê khai trong hồ sơ đăng ký thành lập là giả mạo",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f166-730b-bb10-a36623d64349"
+  },
+  {
+    "stt": 382,
+    "code": "2.002637.01",
+    "title": "Đăng ký thành lập tổ hợp tác; đăng ký tổ hợp tác trong trường hợp đã được thành lập trước ngày Luật Hợp tác xã có hiệu lực thi hành, thuộc đối tượng phải đăng ký theo quy định tại khoản 2 Điều 107 Luật Hợp tác xã 2023",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f163-756e-aafc-5dbf83ea2b09"
+  },
+  {
+    "stt": 383,
+    "code": "2.002638.01",
+    "title": "Cấp lại Giấy chứng nhận đăng ký tổ hợp tác/ Giấy chứng nhận đăng ký hợp tác xã/ Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện/ Giấy chứng nhận đăng ký địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã do bị mất, cháy, rách, nát hoặc bị tiêu hủy",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f17c-7186-bdb9-8f95159cd11d"
+  },
+  {
+    "stt": 384,
+    "code": "2.002639.01",
+    "title": "Đăng ký thay đổi nội dung đăng ký tổ hợp tác",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f179-73dc-bda1-29f5857fcd56"
+  },
+  {
+    "stt": 385,
+    "code": "2.002640.01",
+    "title": "Hiệu đính, cập nhật, bổ sung thông tin đăng ký tổ hợp tác",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f16d-738a-8984-a7263f3e2762"
+  },
+  {
+    "stt": 386,
+    "code": "2.002641.01",
+    "title": "Thông báo tạm ngừng kinh doanh, tiếp tục kinh doanh trở lại đối với tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f186-70fe-b3fc-98274fa94661"
+  },
+  {
+    "stt": 387,
+    "code": "2.002642.01",
+    "title": "Chấm dứt hoạt động tổ hợp tác",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f17f-7667-9e7f-3bbee4ca0bf4"
+  },
+  {
+    "stt": 388,
+    "code": "2.002643.01",
+    "title": "Dừng thực hiện thủ tục đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; Dừng thực hiện thủ tục giải thể hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f17b-739d-a085-c6d92d95c6df"
+  },
+  {
+    "stt": 389,
+    "code": "2.002648.01",
+    "title": "Hiệu đính, cập nhật, bổ sung thông tin đăng ký hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f199-75ef-bfcc-b0508a0c8b9b"
+  },
+  {
+    "stt": 390,
+    "code": "2.002649.01",
+    "title": "Thông báo bổ sung, cập nhật thông tin trong hồ sơ đăng ký hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f184-7758-a081-05a3f955f465"
+  },
+  {
+    "stt": 391,
+    "code": "2.002668.01",
+    "title": "Đăng ký nhu cầu hỗ trợ của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "agency": "Bộ Tài chính",
+    "category": "Thành lập và hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfc-f190-74c4-92a2-f5b630b1b1ae"
+  },
+  {
+    "stt": 392,
+    "code": "2.002750.01",
+    "title": "Công bố Danh mục khu đất dự kiến thực hiện dự án thí điểm thực hiện dự án nhà ở thương mại thông qua thỏa thuận về nhận quyền sử dụng đất hoặc đang có quyền sử dụng đất",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Đất đai",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-b5b3-7669-84fb-b8e32e8dbfea"
+  },
+  {
+    "stt": 393,
+    "code": "2.002770.01",
+    "title": "Xét duyệt học sinh bán trú, học viên bán trú hỗ trợ kinh phí, hỗ trợ gạo",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-d791-76cd-bc4a-853197f14424"
+  },
+  {
+    "stt": 394,
+    "code": "2.002771.01",
+    "title": "Xét duyệt trẻ em nhà trẻ bán trú hỗ trợ kinh phí, hỗ trợ gạo",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-d78b-73b9-b34f-a6626fc15f92"
+  },
+  {
+    "stt": 395,
+    "code": "2.002821.02",
+    "title": "Hỗ trợ đào tạo nghề cho người lao động ở khu vực nông thôn, người lao động là thanh niên",
+    "agency": "Bộ Nội vụ",
+    "category": "Việc làm",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfb-4a52-722d-90e3-52eae73487a0"
+  },
+  {
+    "stt": 396,
+    "code": "2.002891.01",
+    "title": "Thành lập hoặc cho phép thành lập nhà trẻ, trường mẫu giáo, trường mầm non",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e8658-a7df-7302-88cd-2214c29478c7"
+  },
+  {
+    "stt": 397,
+    "code": "2.002892.01",
+    "title": "Sáp nhập, chia, tách nhà trẻ, trường mẫu giáo, trường mầm non",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e865f-29d6-7701-ac68-975e8c112c32"
+  },
+  {
+    "stt": 398,
+    "code": "2.002893.01",
+    "title": "Giải thể nhà trẻ, trường mẫu giáo, trường mầm non",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e8663-d42d-75ba-a4b0-4b6fb7134146"
+  },
+  {
+    "stt": 399,
+    "code": "2.002894.01",
+    "title": "Cho phép nhà trẻ, trường mẫu giáo, trường mầm non, nhà trẻ hoạt động giáo dục",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục mầm non",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e8668-d58f-768b-8c54-b6e2d84eb611"
+  },
+  {
+    "stt": 400,
+    "code": "3.000182.01",
+    "title": "Tuyển sinh trung học cơ sở",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục trung học",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-d78d-7335-bc84-dc4d5274946e"
+  },
+  {
+    "stt": 401,
+    "code": "3.000250.01",
+    "title": "Phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững của chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư hoặc hộ gia đình cá nhân liên kết thành nhóm hộ, tổ hợp tác trường hợp có tổ chức các hoạt động du lịch sinh thái",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-bd80-74ac-9ebf-3dda35f00682"
+  },
+  {
+    "stt": 402,
+    "code": "3.000307.01",
+    "title": "Sáp nhập, chia, tách trung tâm học tập cộng đồng",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục thường xuyên",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-d7cf-70d9-bf2a-2407f4149221"
+  },
+  {
+    "stt": 403,
+    "code": "3.000308.01",
+    "title": "Giải thể trung tâm học tập cộng đồng (theo đề nghị của tổ chức, cá nhân thành lập trung tâm)",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục thường xuyên",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-d8a9-721f-a319-6c06b79bbfeb"
+  },
+  {
+    "stt": 404,
+    "code": "3.000315.01",
+    "title": "Thành lập hoặc cho phép thành lập trung tâm khác thực hiện nhiệm vụ giáo dục thường xuyên",
+    "agency": "Bộ Giáo dục và Đào tạo",
+    "category": "Giáo dục thường xuyên",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf8-d7fe-7459-ba02-c643c637d9cc"
+  },
+  {
+    "stt": 405,
+    "code": "3.000322.01",
+    "title": "Đăng ký chấm dứt giám sát việc giám hộ",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-a586-71fe-8c10-8bfa070f5066"
+  },
+  {
+    "stt": 406,
+    "code": "3.000323.01",
+    "title": "Đăng ký giám sát việc giám hộ",
+    "agency": "Bộ Tư pháp",
+    "category": "Hộ tịch",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfd-a5b3-74a8-b670-0ffe3cefb7e3"
+  },
+  {
+    "stt": 407,
+    "code": "3.000439.01",
+    "title": "Giao khu vực biển cho cá nhân Việt Nam để nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Biển và hải đảo",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-bd86-738d-9d9c-b220bbcb8bd3"
+  },
+  {
+    "stt": 408,
+    "code": "3.000441.01",
+    "title": "Trả lại khu vực biển cho cá nhân Việt Nam để nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Biển và hải đảo",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-bd8b-7658-b7bf-767edde446c7"
+  },
+  {
+    "stt": 409,
+    "code": "3.000442.01",
+    "title": "Sửa đổi, bổ sung Quyết định giao khu vực biển cho cá nhân Việt Nam để nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Biển và hải đảo",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-bd92-746a-b3b3-5322ab0c31ad"
+  },
+  {
+    "stt": 410,
+    "code": "3.000443.01",
+    "title": "Công nhận khu vực biển cho cá nhân Việt Nam để nuôi trồng thủy sản",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Biển và hải đảo",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-bd96-75a9-91db-003725f26425"
+  },
+  {
+    "stt": 411,
+    "code": "3.000502.01",
+    "title": "Thẩm định, phê duyệt hoặc điều chỉnh phương án nuôi, trồng phát triển, thu hoạch cây dược liệu trong rừng đối với chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Lâm nghiệp và Kiểm lâm",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bfa-c527-751c-aa64-7eb5024ccb0a"
+  },
+  {
+    "stt": 412,
+    "code": "3.000569.01",
+    "title": "Thủ tục xác nhận đăng ký hoạt động in (cấp xã)",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Xuất Bản, In và Phát hành",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e1f0d-ac7e-766d-9000-0d3e2c767b68"
+  },
+  {
+    "stt": 413,
+    "code": "3.000576.01",
+    "title": "Khai báo hoạt động phát hành xuất bản phẩm",
+    "agency": "Bộ Văn hóa, Thể thao và Du lịch",
+    "category": "Xuất Bản, In và Phát hành",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019e80ec-3681-73b8-a21e-ae592510a0d2"
+  },
+  {
+    "stt": 414,
+    "code": "1.116214.01",
+    "title": "Công nhận hộ nghèo, hộ cận nghèo, hộ thoát nghèo định kỳ hằng năm theo chuẩn nghèo đa chiều quốc gia giai đoạn 2027-2030",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Giảm nghèo",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019febe4-58d9-757c-bcc3-a03dfe6c7495"
+  },
+  {
+    "stt": 415,
+    "code": "1.116215.01",
+    "title": "Công nhận hộ nghèo, hộ cận nghèo, hộ thoát nghèo trong năm theo chuẩn nghèo đa chiều quốc gia giai đoạn 2027-2030",
+    "agency": "Bộ Nông nghiệp và Môi trường",
+    "category": "Giảm nghèo",
+    "level": "Một phần",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019febea-b783-72fa-b94c-925e72b6791a"
+  },
+  {
+    "stt": 416,
+    "code": "3.000498.01",
+    "title": "Cấp tài khoản định danh điện tử cho cơ quan, tổ chức",
+    "agency": "Bộ Công an",
+    "category": "Định danh và xác thực điện tử",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-cd0c-723d-9c89-e99985627455"
+  },
+  {
+    "stt": 417,
+    "code": "1010040.01",
+    "title": "Khai báo thông tin về cư trú đối với người chưa đủ điều kiện đăng ký thường trú, đăng ký tạm trú",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý cư trú",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-7efc-7491-9ac8-527fe53522e4"
+  },
+  {
+    "stt": 418,
+    "code": "1010041.01",
+    "title": "Xác nhận thông tin về cư trú",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý cư trú",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-7f19-762d-be5e-741f71796016"
+  },
+  {
+    "stt": 419,
+    "code": "2.001159.01",
+    "title": "Thông báo lưu trú",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý cư trú",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-adb7-7329-8d7c-db89ef073ced"
+  },
+  {
+    "stt": 420,
+    "code": "1.003677.01",
+    "title": "Khai báo tạm vắng",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý cư trú",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-6f56-704f-95b8-8d949272c6ad"
+  },
+  {
+    "stt": 421,
+    "code": "1.001146.01",
+    "title": "Gia hạn tạm trú cho người nước ngoài tại Việt Nam (thực hiện tại cấp tỉnh)",
+    "agency": "Bộ Công an",
+    "category": "Quản lý xuất nhập cảnh",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019d2bf7-5f61-72e9-acd7-30da53e18cc9"
+  },
+  {
+    "stt": 422,
+    "code": "1.115231.01",
+    "title": "Đăng ký mẫu con dấu mới",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý con dấu",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019ef367-fc61-7246-b474-351b3460e52d"
+  },
+  {
+    "stt": 423,
+    "code": "1.115232.01",
+    "title": "Đăng ký lại mẫu con dấu",
+    "agency": "Bộ Công an",
+    "category": "Đăng ký, quản lý con dấu",
+    "level": "Toàn trình",
+    "url": "https://dichvucong.gov.vn/thu-tuc-hanh-chinh/019ef36c-5728-7419-bdf0-d939a84f1678"
+  }
+]
